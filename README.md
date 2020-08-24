@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/Clashsoft.png?size=512" width="256">
+<img align="right" src="https://github.com/Clashsoft.png?size=1024" width="256">
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
 Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
@@ -46,9 +46,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 
-- [KosrenDQ <img src="https://github.com/KosrenDQ.png?size=32" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)
-- [nataschu <img src="https://github.com/nataschu.png?size=32" alt="nataschu Profile Avatar" width="32">](https://github.com/nataschu)
-- [tobit800 <img src="https://github.com/tobit800.png?size=32" alt="tobit800 Profile Avatar" width="32">](https://github.com/tobit800)
-- [Kuenssi <img src="https://github.com/Kuenssi.png?size=32" alt="Kuenssi Profile Avatar" width="32">](https://github.com/Kuenssi)
-- [distrustME <img src="https://github.com/distrustME.png?size=32" alt="distrustME Profile Avatar" width="32">](https://github.com/distrustME)
-
+- [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32"> KosrenDQ](https://github.com/KosrenDQ)
+- [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32"> nataschu](https://github.com/nataschu)
+- [<img src="https://github.com/tobit800.png?size=128" alt="tobit800 Profile Avatar" width="32"> tobit800](https://github.com/tobit800)
+- [<img src="https://github.com/Kuenssi.png?size=128" alt="Kuenssi Profile Avatar" width="32"> Kuenssi](https://github.com/Kuenssi)
+- [<img src="https://github.com/distrustME.png?size=128" alt="distrustME Profile Avatar" width="32"> distrustME](https://github.com/distrustME)
