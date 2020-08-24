@@ -1,4 +1,9 @@
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})- {{.Repo.Description}}
+{{- end}}
+
+#### 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
