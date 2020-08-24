@@ -46,9 +46,9 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 
-- [KosrenDQ ![KosrenDQ Profile Avatar](https://github.com/KosrenDQ.png?size=32)](https://github.com/KosrenDQ)
-- [nataschu ![nataschu Profile Avatar](https://github.com/nataschu.png?size=32)](https://github.com/nataschu)
-- [tobit800 ![tobit800 Profile Avatar](https://github.com/tobit800.png?size=32)](https://github.com/tobit800)
-- [Kuenssi ![Kuenssi Profile Avatar](https://github.com/Kuenssi.png?size=32)](https://github.com/Kuenssi)
-- [distrustME ![distrustME Profile Avatar](https://github.com/distrustME.png?size=32)](https://github.com/distrustME)
+- [KosrenDQ <img src="https://github.com/KosrenDQ.png?size=32" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)
+- [nataschu <img src="https://github.com/nataschu.png?size=32" alt="nataschu Profile Avatar" width="32">](https://github.com/nataschu)
+- [tobit800 <img src="https://github.com/tobit800.png?size=32" alt="tobit800 Profile Avatar" width="32">](https://github.com/tobit800)
+- [Kuenssi <img src="https://github.com/Kuenssi.png?size=32" alt="Kuenssi Profile Avatar" width="32">](https://github.com/Kuenssi)
+- [distrustME <img src="https://github.com/distrustME.png?size=32" alt="distrustME Profile Avatar" width="32">](https://github.com/distrustME)
 
