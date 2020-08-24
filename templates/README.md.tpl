@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/Clashsoft.png?size=512" width="256">
+<img align="right" src="https://github.com/Clashsoft.png?size=1024" width="256">
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
 Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
@@ -22,6 +22,5 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
-- [{{.Login}} <img src="{{.URL}}.png?size=32" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}})
+- [<img src="{{.URL}}.png?size=128" alt="{{.Login}} Profile Avatar" width="32"> {{.Login}}]({{.URL}})
 {{- end}}
-
