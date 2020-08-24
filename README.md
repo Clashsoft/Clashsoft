@@ -1,4 +1,17 @@
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+
+- [fujaba/fulib](https://github.com/fujaba/fulib) (2 days ago)- Fujaba library
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago)- The fulib.org website and Fulib Scenarios Web App
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago)- fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago)- Additional features for fulib that require some large dependencies
+- [antlr/stringtemplate4](https://github.com/antlr/stringtemplate4) (1 week ago)- StringTemplate 4
+- [Clashsoft/old.app.clashsoft.de](https://github.com/Clashsoft/old.app.clashsoft.de) (2 weeks ago)- A collection of web apps for various purposes, mostly related to games. Formerly known as app.clashsoft.de, which is now written with Angular
+- [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) (2 weeks ago)- A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
+- [Clashsoft/Seminar-Groovy](https://github.com/Clashsoft/Seminar-Groovy) (2 weeks ago)- A seminar paper about the Groovy programming language, written for the Seminar &#34;Skriptsprachen&#34; in Winter Term 2018 at the University of Kassel
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago)- A collection of web apps for various purposes, mostly related to games.
+- [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago)- Gradle Plugin for Fulib Scenarios
+
+#### 🌱 My latest projects
 
 - [Clashsoft/clashsoft.github.io](https://github.com/Clashsoft/clashsoft.github.io) - 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
