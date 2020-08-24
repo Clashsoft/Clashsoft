@@ -8,15 +8,15 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 #### 👷 Check out what I'm currently working on
 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 days ago) - Fujaba library
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago) - Additional features for fulib that require some large dependencies
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
 - [antlr/stringtemplate4](https://github.com/antlr/stringtemplate4) (1 week ago) - StringTemplate 4
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [Clashsoft/old.app.clashsoft.de](https://github.com/Clashsoft/old.app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games. Formerly known as app.clashsoft.de, which is now written with Angular
-- [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) (2 weeks ago) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/Seminar-Groovy](https://github.com/Clashsoft/Seminar-Groovy) (2 weeks ago) - A seminar paper about the Groovy programming language, written for the Seminar &#34;Skriptsprachen&#34; in Winter Term 2018 at the University of Kassel
+- [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) (2 weeks ago) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games.
-- [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for Fulib Scenarios
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) - Integrate Angular frontends into your Gradle build.
 - [Clashsoft/Angular-Gradle-Demo](https://github.com/Clashsoft/Angular-Gradle-Demo) - A demo that shows how to integrate an Angular frontend in a Gradle project.
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [Clashsoft/.github](https://github.com/Clashsoft/.github) - Default issue templates and other GitHub-specific configuration files for my projects.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [Clashsoft/se-flight-calculator](https://github.com/Clashsoft/se-flight-calculator) - 
 - [Clashsoft/jindosh-riddle](https://github.com/Clashsoft/jindosh-riddle) - A web app for solving the Jindosh Riddle from Dishonored 2.
-- [Clashsoft/old.app.clashsoft.de](https://github.com/Clashsoft/old.app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games. Formerly known as app.clashsoft.de, which is now written with Angular
 
 #### 🔭 Latest releases I've contributed to
 
