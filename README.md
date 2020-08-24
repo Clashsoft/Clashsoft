@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
-
 #### 🌱 Check out what I'm currently working on
 
 - [Clashsoft/clashsoft.github.io](https://github.com/Clashsoft/clashsoft.github.io) - 
@@ -35,7 +31,3 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [Kuenssi](https://github.com/Kuenssi)
 - [distrustME](https://github.com/distrustME)
 - [cogoo](https://github.com/cogoo)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
