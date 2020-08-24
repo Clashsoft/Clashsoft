@@ -14,9 +14,9 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
 - [antlr/stringtemplate4](https://github.com/antlr/stringtemplate4) (1 week ago) - StringTemplate 4
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
+- [Clashsoft/old.app.clashsoft.de](https://github.com/Clashsoft/old.app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games. Formerly known as app.clashsoft.de, which is now written with Angular
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) (2 weeks ago) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/Seminar-Groovy](https://github.com/Clashsoft/Seminar-Groovy) (2 weeks ago) - A seminar paper about the Groovy programming language, written for the Seminar &#34;Skriptsprachen&#34; in Winter Term 2018 at the University of Kassel
-- [Clashsoft/old.app.clashsoft.de](https://github.com/Clashsoft/old.app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games. Formerly known as app.clashsoft.de, which is now written with Angular
 
 #### 🌱 My latest projects
 
