@@ -46,9 +46,9 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 
+- [KosrenDQ](https://github.com/KosrenDQ)
 - [nataschu](https://github.com/nataschu)
 - [tobit800](https://github.com/tobit800)
 - [Kuenssi](https://github.com/Kuenssi)
 - [distrustME](https://github.com/distrustME)
-- [cogoo](https://github.com/cogoo)
 
