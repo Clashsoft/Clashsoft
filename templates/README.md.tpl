@@ -1,3 +1,10 @@
+### Hi there 👋
+
+<img align="right" src="https://github.com/Clashsoft.png?size=256" width="256">
+
+What's this? A mysterious secret page? Shhh, don't tell anyone!
+Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})- {{.Repo.Description}}
@@ -17,3 +24,4 @@
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+
