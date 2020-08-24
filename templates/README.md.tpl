@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
-
 #### 🌱 Check out what I'm currently working on
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
@@ -16,7 +12,3 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
