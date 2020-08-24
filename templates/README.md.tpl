@@ -22,6 +22,6 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
-- [{{.Login}} ![{{.Login}} Profile Avatar]({{.URL}}.png?size=32)]({{.URL}})
+- [{{.Login}} <img src="{{.URL}}.png?size=32" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}})
 {{- end}}
 
