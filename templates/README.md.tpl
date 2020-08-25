@@ -6,7 +6,7 @@
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 5
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
