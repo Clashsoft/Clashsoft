@@ -12,19 +12,19 @@
 
 #### 🌱 My latest projects
 
-- [Clashsoft/clashsoft.github.io](https://github.com/Clashsoft/clashsoft.github.io) - 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) - Integrate Angular frontends into your Gradle build.
 - [Clashsoft/Angular-Gradle-Demo](https://github.com/Clashsoft/Angular-Gradle-Demo) - A demo that shows how to integrate an Angular frontend in a Gradle project.
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 
 #### 🔭 Latest releases I've contributed to
 
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), today) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.1](https://github.com/fujaba/fulib.org/releases/tag/v1.4.1), 1 week ago) - The fulib.org website and Fulib Scenarios Web App
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.1), 1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.2.1](https://github.com/fujaba/fulibTools/releases/tag/v1.2.1), 1 week ago) - Additional features for fulib that require some large dependencies
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.1](https://github.com/fujaba/fulib/releases/tag/v1.2.1), 1 week ago) - Fujaba library
-- [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) ([v0.4.0](https://github.com/fujaba/fulibGradle/releases/tag/v0.4.0), 1 month ago) - Gradle Plugin for Fulib Scenarios
 
 #### 👯 Check out some of my recent followers
 
