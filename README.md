@@ -1,8 +1,6 @@
 #### 🔅 Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff" height="256" alt="Clashsoft Profile Stats">
-
-<img align="right" src="https://github.com/Clashsoft.png?size=1024" height="256" alt="Clashsoft Profile Avatar">
+<img src="https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff" height="256" alt="Clashsoft Profile Stats">
 
 #### 👷 Check out what I'm currently working on
 
