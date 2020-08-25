@@ -1,6 +1,6 @@
 #### 🔅 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff" height="256" alt="Clashsoft Profile Stats">
+![Clashsoft Profile Stats](https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff)
 
 #### 👷 Check out what I'm currently working on
 
