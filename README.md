@@ -1,9 +1,4 @@
-### Hi there 👋
-
 <img align="right" src="https://github.com/Clashsoft.png?size=1024" width="256">
-
-What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 #### 👷 Check out what I'm currently working on
 
@@ -51,3 +46,9 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [<img src="https://github.com/tobit800.png?size=128" alt="tobit800 Profile Avatar" width="32"> tobit800](https://github.com/tobit800)
 - [<img src="https://github.com/Kuenssi.png?size=128" alt="Kuenssi Profile Avatar" width="32"> Kuenssi](https://github.com/Kuenssi)
 - [<img src="https://github.com/distrustME.png?size=128" alt="distrustME Profile Avatar" width="32"> distrustME](https://github.com/distrustME)
+
+#### 🔅 Stats
+![Clashsoft's github stats](https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff)
+
+#### ❗ Want your own profile-readme?
+Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
