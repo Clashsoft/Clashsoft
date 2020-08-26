@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (today) - Fujaba library
+- [fujaba/fulibServiceGenerator](https://github.com/fujaba/fulibServiceGenerator) (today) - 
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) (3 days ago) - Automatically exclude development dependencies from Apple Time Machine backups
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago) - Additional features for fulib that require some large dependencies
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
 
 #### 🌱 My latest projects
 
