@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) (2 days ago) - Automatically exclude development dependencies from Apple Time Machine backups
-- [fujaba/fulib](https://github.com/fujaba/fulib) (3 days ago) - Fujaba library
+- [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) (3 days ago) - Automatically exclude development dependencies from Apple Time Machine backups
+- [fujaba/fulib](https://github.com/fujaba/fulib) (4 days ago) - Fujaba library
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago) - Additional features for fulib that require some large dependencies
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), today) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 1 day ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.1](https://github.com/fujaba/fulib.org/releases/tag/v1.4.1), 1 week ago) - The fulib.org website and Fulib Scenarios Web App
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.1), 1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.2.1](https://github.com/fujaba/fulibTools/releases/tag/v1.2.1), 1 week ago) - Additional features for fulib that require some large dependencies
