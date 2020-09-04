@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (today) - The fulib.org website and Fulib Scenarios Web App
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (today) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 day ago) - Fujaba library
 - [fujaba/fulibServiceGenerator](https://github.com/fujaba/fulibServiceGenerator) (2 days ago) - 
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) (1 week ago) - Automatically exclude development dependencies from Apple Time Machine backups
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios Web App
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), today) - The fulib.org website and Fulib Scenarios Web App
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 2 days ago) - Fujaba library
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 1 week ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.1](https://github.com/fujaba/fulib.org/releases/tag/v1.4.1), 2 weeks ago) - The fulib.org website and Fulib Scenarios Web App
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.1), 2 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.2.1](https://github.com/fujaba/fulibTools/releases/tag/v1.2.1), 2 weeks ago) - Additional features for fulib that require some large dependencies
 
