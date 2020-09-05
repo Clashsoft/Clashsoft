@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib.org website and Fulib Scenarios Web App
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (today) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 day ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib.org website and Fulib Scenarios Web App
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 days ago) - Fujaba library
 - [fujaba/fulibServiceGenerator](https://github.com/fujaba/fulibServiceGenerator) (3 days ago) - 
-- [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) (1 week ago) - Automatically exclude development dependencies from Apple Time Machine backups
 
 #### 🌱 My latest projects
 
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) - Integrate Angular frontends into your Gradle build.
 - [Clashsoft/Angular-Gradle-Demo](https://github.com/Clashsoft/Angular-Gradle-Demo) - A demo that shows how to integrate an Angular frontend in a Gradle project.
-- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 
 #### 🔭 Latest releases I've contributed to
 
