@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (today) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (today) - An Angular wrapper for bootstrap-darkmode.
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 day ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib.org website and Fulib Scenarios Web App
+- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 day ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 day ago) - An Angular wrapper for bootstrap-darkmode.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (2 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib.org website and Fulib Scenarios Web App
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 1 day ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 1 day ago) - The fulib.org website and Fulib Scenarios Web App
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 3 days ago) - Fujaba library
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 2 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 2 days ago) - The fulib.org website and Fulib Scenarios Web App
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 4 days ago) - Fujaba library
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 1 week ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.2.1](https://github.com/fujaba/fulibTools/releases/tag/v1.2.1), 3 weeks ago) - Additional features for fulib that require some large dependencies
 
