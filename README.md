@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 day ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (today) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (2 days ago) - 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 week ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
