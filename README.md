@@ -8,7 +8,7 @@
 - [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (4 days ago) - 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 week ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
 
 #### 🌱 My latest projects
 
