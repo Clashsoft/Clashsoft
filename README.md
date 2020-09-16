@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (3 days ago) - An Angular wrapper for bootstrap-darkmode.
-- [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (5 days ago) - 
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (4 days ago) - An Angular wrapper for bootstrap-darkmode.
+- [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (6 days ago) - 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 week ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios Web App
@@ -22,7 +22,7 @@
 
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 1 week ago) - The fulib.org website and Fulib Scenarios Web App
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 1 week ago) - Fujaba library
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 2 weeks ago) - Fujaba library
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 3 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.2.1](https://github.com/fujaba/fulibTools/releases/tag/v1.2.1), 1 month ago) - Additional features for fulib that require some large dependencies
 
