@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (today) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (1 day ago) - In-browser code editor
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 week ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (1 week ago) - An experimental code generator for services using commutative event sourcing.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (2 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
