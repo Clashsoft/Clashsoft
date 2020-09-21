@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.0](https://github.com/codemirror/CodeMirror/releases/tag/5.58.0), today) - In-browser code editor
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 2 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 2 weeks ago) - Fujaba library
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 3 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.57.0](https://github.com/codemirror/CodeMirror/releases/tag/5.57.0), 1 month ago) - In-browser code editor
 
 #### 👯 Check out some of my recent followers
 
