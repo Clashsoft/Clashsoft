@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.0](https://github.com/codemirror/CodeMirror/releases/tag/5.58.0), 2 days ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), today) - In-browser code editor
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 2 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 3 weeks ago) - Fujaba library
