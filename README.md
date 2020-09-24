@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 day ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (3 days ago) - In-browser code editor
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (2 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (4 days ago) - In-browser code editor
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 week ago) - An Angular wrapper for bootstrap-darkmode.
-- [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (1 week ago) - An experimental code generator for services using commutative event sourcing.
+- [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (2 weeks ago) - An experimental code generator for services using commutative event sourcing.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (2 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), today) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), 1 day ago) - In-browser code editor
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 2 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 3 weeks ago) - Fujaba library
-- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 4 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) ([v1.0.0](https://github.com/Clashsoft/Bachelor-Thesis/releases/tag/v1.0.0), 1 month ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 
 #### 👯 Check out some of my recent followers
 
