@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (6 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (1 week ago) - In-browser code editor
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 weeks ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (2 weeks ago) - An experimental code generator for services using commutative event sourcing.
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), 5 days ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), 6 days ago) - In-browser code editor
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 3 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.2.3](https://github.com/fujaba/fulib/releases/tag/v1.2.3), 3 weeks ago) - Fujaba library
