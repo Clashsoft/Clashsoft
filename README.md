@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fujaba/.github](https://github.com/fujaba/.github) (today) - Default issue templates and other GitHub-specific configuration files for this organization.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (1 week ago) - In-browser code editor
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 weeks ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulibServices](https://github.com/fujaba/fulibServices) (2 weeks ago) - An experimental code generator for services using commutative event sourcing.
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (3 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 
 #### 🌱 My latest projects
 
