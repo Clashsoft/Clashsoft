@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.5.0](https://github.com/fujaba/fulib.org/releases/tag/v1.5.0), today) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.3.0](https://github.com/fujaba/fulibTools/releases/tag/v1.3.0), today) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.5.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.5.0), today) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), today) - Fujaba library
 - [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 1 day ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
-- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) ([v1.4.0](https://github.com/fujaba/fulibYaml/releases/tag/v1.4.0), 1 day ago) - Yaml serialization for fulib object models. Used for storage and communication.
 
 #### 👯 Check out some of my recent followers
 
