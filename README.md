@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) (today) - fulibTables provides model query and transformation mechanisms for fulib object models.
-- [fujaba/.github](https://github.com/fujaba/.github) (today) - Default issue templates and other GitHub-specific configuration files for this organization.
-- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) (today) - Yaml serialization for fulib object models. Used for storage and communication.
+- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) (1 day ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
+- [fujaba/.github](https://github.com/fujaba/.github) (1 day ago) - Default issue templates and other GitHub-specific configuration files for this organization.
+- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) (1 day ago) - Yaml serialization for fulib object models. Used for storage and communication.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) (1 week ago) - In-browser code editor
 
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), today) - fulibTables provides model query and transformation mechanisms for fulib object models.
-- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) ([v1.4.0](https://github.com/fujaba/fulibYaml/releases/tag/v1.4.0), today) - Yaml serialization for fulib object models. Used for storage and communication.
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), 6 days ago) - In-browser code editor
+- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 1 day ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
+- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) ([v1.4.0](https://github.com/fujaba/fulibYaml/releases/tag/v1.4.0), 1 day ago) - Yaml serialization for fulib object models. Used for storage and communication.
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), 1 week ago) - In-browser code editor
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 3 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 
