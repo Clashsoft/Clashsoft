@@ -6,9 +6,9 @@
 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (today) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (today) - Fujaba library
+- [fujaba/fulibScenariosDocs](https://github.com/fujaba/fulibScenariosDocs) (today) - 
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (today) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTables](https://github.com/fujaba/fulibTables) (1 day ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
-- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) (1 day ago) - Yaml serialization for fulib object models. Used for storage and communication.
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.3.0](https://github.com/fujaba/fulibTools/releases/tag/v1.3.0), today) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.5.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.5.0), today) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), today) - Fujaba library
 - [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 1 day ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
 - [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) ([v1.4.0](https://github.com/fujaba/fulibYaml/releases/tag/v1.4.0), 1 day ago) - Yaml serialization for fulib object models. Used for storage and communication.
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.1](https://github.com/codemirror/CodeMirror/releases/tag/5.58.1), 1 week ago) - In-browser code editor
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.4.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.4.2), 3 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
 #### 👯 Check out some of my recent followers
 
