@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (1 day ago) - The Dyvil Gradle Plugin
+- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (today) - The Dyvil Gradle Plugin
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (1 day ago) - The Dyvil programming language
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (6 days ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (6 days ago) - Fujaba library
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (6 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibScenariosDocs](https://github.com/fujaba/fulibScenariosDocs) (6 days ago) - 
 
 #### 🌱 My latest projects
 
