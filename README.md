@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (today) - The Dyvil Gradle Plugin
-- [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (1 day ago) - The Dyvil programming language
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (6 days ago) - Additional features for fulib that require some large dependencies.
-- [fujaba/fulib](https://github.com/fujaba/fulib) (6 days ago) - Fujaba library
-- [fujaba/fulibScenariosDocs](https://github.com/fujaba/fulibScenariosDocs) (6 days ago) - 
+- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (1 day ago) - The Dyvil Gradle Plugin
+- [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (2 days ago) - The Dyvil programming language
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fujaba library
+- [fujaba/fulibScenariosDocs](https://github.com/fujaba/fulibScenariosDocs) (1 week ago) - 
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.5.0](https://github.com/fujaba/fulib.org/releases/tag/v1.5.0), 6 days ago) - The fulib.org website and Fulib Scenarios web app.
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.3.0](https://github.com/fujaba/fulibTools/releases/tag/v1.3.0), 6 days ago) - Additional features for fulib that require some large dependencies.
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.5.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.5.0), 6 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 6 days ago) - Fujaba library
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.5.0](https://github.com/fujaba/fulib.org/releases/tag/v1.5.0), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.3.0](https://github.com/fujaba/fulibTools/releases/tag/v1.3.0), 1 week ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.5.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.5.0), 1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 1 week ago) - Fujaba library
 - [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 1 week ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
 
 #### 👯 Check out some of my recent followers
