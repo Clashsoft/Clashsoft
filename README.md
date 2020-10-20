@@ -7,7 +7,7 @@
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 week ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (1 week ago) - Tools for generating HTML mockups and Web Apps
-- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (1 week ago) - The Dyvil Gradle Plugin
+- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (2 weeks ago) - The Dyvil Gradle Plugin
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (2 weeks ago) - The Dyvil programming language
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.3.0](https://github.com/fujaba/fulibTools/releases/tag/v1.3.0), 2 weeks ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.5.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.5.0), 2 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 2 weeks ago) - Fujaba library
-- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 2 weeks ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
+- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 3 weeks ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
 
 #### 👯 Check out some of my recent followers
 
