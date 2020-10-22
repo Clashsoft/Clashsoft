@@ -6,7 +6,7 @@
 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 week ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (1 week ago) - Tools for generating HTML mockups and Web Apps
+- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (2 weeks ago) - Tools for generating HTML mockups and Web Apps
 - [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (2 weeks ago) - The Dyvil Gradle Plugin
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (2 weeks ago) - The Dyvil programming language
 
