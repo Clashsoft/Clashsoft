@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.2](https://github.com/codemirror/CodeMirror/releases/tag/5.58.2), today) - In-browser code editor
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.5.0](https://github.com/fujaba/fulib.org/releases/tag/v1.5.0), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.3.0](https://github.com/fujaba/fulibTools/releases/tag/v1.3.0), 3 weeks ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.5.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.5.0), 3 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 3 weeks ago) - Fujaba library
-- [fujaba/fulibTables](https://github.com/fujaba/fulibTables) ([v1.4.0](https://github.com/fujaba/fulibTables/releases/tag/v1.4.0), 3 weeks ago) - fulibTables provides model query and transformation mechanisms for fulib object models.
 
 #### 👯 Check out some of my recent followers
 
