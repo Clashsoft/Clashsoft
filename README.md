@@ -28,11 +28,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32"> Ben-Manfouo](https://github.com/Ben-Manfouo)
 - [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32"> insidelife](https://github.com/insidelife)
 - [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32"> KosrenDQ](https://github.com/KosrenDQ)
 - [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32"> nataschu](https://github.com/nataschu)
 - [<img src="https://github.com/tobit800.png?size=128" alt="tobit800 Profile Avatar" width="32"> tobit800](https://github.com/tobit800)
-- [<img src="https://github.com/Kuenssi.png?size=128" alt="Kuenssi Profile Avatar" width="32"> Kuenssi](https://github.com/Kuenssi)
 
 #### ❗ Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
