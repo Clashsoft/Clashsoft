@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (3 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (3 weeks ago) - Tools for generating HTML mockups and Web Apps
-- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (4 weeks ago) - The Dyvil Gradle Plugin
+- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (4 weeks ago) - Tools for generating HTML mockups and Web Apps
+- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (1 month ago) - The Dyvil Gradle Plugin
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (1 month ago) - The Dyvil programming language
 
 #### 🌱 My latest projects
