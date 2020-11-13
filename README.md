@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (today) - HTTP server that controls my LED strip
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fujaba library
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 month ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (1 month ago) - Tools for generating HTML mockups and Web Apps
-- [Dyvil/Dyvil-Gradle-Plugin](https://github.com/Dyvil/Dyvil-Gradle-Plugin) (1 month ago) - The Dyvil Gradle Plugin
 
 #### 🌱 My latest projects
 
+- [Clashsoft/led-server](https://github.com/Clashsoft/led-server) - HTTP server that controls my LED strip
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 - [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) - Integrate Angular frontends into your Gradle build.
-- [Clashsoft/Angular-Gradle-Demo](https://github.com/Clashsoft/Angular-Gradle-Demo) - A demo that shows how to integrate an Angular frontend in a Gradle project.
 
 #### 🔭 Latest releases I've contributed to
 
