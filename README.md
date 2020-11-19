@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.3](https://github.com/codemirror/CodeMirror/releases/tag/5.58.3), today) - In-browser code editor
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.6.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.6.0), 2 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.4.0](https://github.com/fujaba/fulibTools/releases/tag/v1.4.0), 5 days ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 5 days ago) - Fujaba library
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([compiler/v0.47.2](https://github.com/Dyvil/Dyvil/releases/tag/compiler%2Fv0.47.2), 3 weeks ago) - The Dyvil programming language
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.2](https://github.com/codemirror/CodeMirror/releases/tag/5.58.2), 3 weeks ago) - In-browser code editor
 
 #### 👯 Check out some of my recent followers
 
