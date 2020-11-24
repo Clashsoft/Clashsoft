@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (2 days ago) - HTTP server that controls my LED strip
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 days ago) - A collection of web apps for various purposes, mostly related to games.
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (6 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (today) - HTTP server that controls my LED strip
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (1 week ago) - This script fetches all names with a specific prefix in an organisation.
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago) - Additional features for fulib that require some large dependencies.
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.3](https://github.com/codemirror/CodeMirror/releases/tag/5.58.3), 4 days ago) - In-browser code editor
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.6.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.6.0), 6 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.3](https://github.com/codemirror/CodeMirror/releases/tag/5.58.3), 5 days ago) - In-browser code editor
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.6.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.6.0), 1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.4.0](https://github.com/fujaba/fulibTools/releases/tag/v1.4.0), 1 week ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 1 week ago) - Fujaba library
-- [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([compiler/v0.47.2](https://github.com/Dyvil/Dyvil/releases/tag/compiler%2Fv0.47.2), 3 weeks ago) - The Dyvil programming language
+- [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([compiler/v0.47.2](https://github.com/Dyvil/Dyvil/releases/tag/compiler%2Fv0.47.2), 4 weeks ago) - The Dyvil programming language
 
 #### 👯 Check out some of my recent followers
 
