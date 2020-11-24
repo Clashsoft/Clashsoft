@@ -7,8 +7,8 @@
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (today) - HTTP server that controls my LED strip
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (today) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (today) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (today) - Tools for generating HTML mockups and Web Apps
-- [sekassel-research/org-repo-name-fetcher](https://github.com/sekassel-research/org-repo-name-fetcher) (1 week ago) - This script fetches all names with a specific prefix in an organisation.
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.0](https://github.com/fujaba/fulib.org/releases/tag/v1.6.0), today) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.3.0](https://github.com/fujaba/fulibMockups/releases/tag/v0.3.0), today) - Tools for generating HTML mockups and Web Apps
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.6.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.6.1), today) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.3](https://github.com/codemirror/CodeMirror/releases/tag/5.58.3), 5 days ago) - In-browser code editor
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.4.0](https://github.com/fujaba/fulibTools/releases/tag/v1.4.0), 1 week ago) - Additional features for fulib that require some large dependencies.
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 1 week ago) - Fujaba library
 
 #### 👯 Check out some of my recent followers
 
