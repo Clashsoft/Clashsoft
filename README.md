@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 days ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (2 days ago) - HTTP server that controls my LED strip
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (2 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib.org website and Fulib Scenarios web app.
