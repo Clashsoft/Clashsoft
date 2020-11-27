@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (today) - Additional features for fulib that require some large dependencies.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (3 days ago) - HTTP server that controls my LED strip
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (3 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib.org website and Fulib Scenarios web app.
-- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (3 days ago) - Tools for generating HTML mockups and Web Apps
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.4.1](https://github.com/fujaba/fulibTools/releases/tag/v1.4.1), today) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.0](https://github.com/fujaba/fulib.org/releases/tag/v1.6.0), 3 days ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.3.0](https://github.com/fujaba/fulibMockups/releases/tag/v0.3.0), 3 days ago) - Tools for generating HTML mockups and Web Apps
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.6.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.6.1), 3 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.58.3](https://github.com/codemirror/CodeMirror/releases/tag/5.58.3), 1 week ago) - In-browser code editor
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.4.0](https://github.com/fujaba/fulibTools/releases/tag/v1.4.0), 1 week ago) - Additional features for fulib that require some large dependencies.
 
 #### 👯 Check out some of my recent followers
 
