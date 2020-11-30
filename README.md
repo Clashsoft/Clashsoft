@@ -7,8 +7,8 @@
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (1 day ago) - HTTP server that controls my LED strip
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (2 days ago) - Tools for generating HTML mockups and Web Apps
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (3 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (3 days ago) - Additional features for fulib that require some large dependencies.
 
 #### 🌱 My latest projects
 
