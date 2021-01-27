@@ -7,7 +7,7 @@
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for Fulib Scenarios
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 month ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (1 month ago) - HTTP server that controls my LED strip
-- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (1 month ago) - Tools for generating HTML mockups and Web Apps
+- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (2 months ago) - Tools for generating HTML mockups and Web Apps
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (2 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.2](https://github.com/codemirror/CodeMirror/releases/tag/5.59.2), 6 days ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.2](https://github.com/codemirror/CodeMirror/releases/tag/5.59.2), 1 week ago) - In-browser code editor
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) ([v0.5.0](https://github.com/fujaba/fulibGradle/releases/tag/v0.5.0), 1 month ago) - Gradle Plugin for Fulib Scenarios
-- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.3.1](https://github.com/fujaba/fulibMockups/releases/tag/v0.3.1), 1 month ago) - Tools for generating HTML mockups and Web Apps
+- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.3.1](https://github.com/fujaba/fulibMockups/releases/tag/v0.3.1), 2 months ago) - Tools for generating HTML mockups and Web Apps
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.1](https://github.com/fujaba/fulib.org/releases/tag/v1.6.1), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.6.2](https://github.com/fujaba/fulibScenarios/releases/tag/v1.6.2), 2 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
