@@ -21,7 +21,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.4](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.4), 1 week ago) - A Github action to upgrade a service in Rancher 1.6.X 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.2](https://github.com/codemirror/CodeMirror/releases/tag/5.59.2), 4 weeks ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.2](https://github.com/codemirror/CodeMirror/releases/tag/5.59.2), 1 month ago) - In-browser code editor
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) ([v0.5.0](https://github.com/fujaba/fulibGradle/releases/tag/v0.5.0), 2 months ago) - Gradle Plugin for Fulib Scenarios
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.3.1](https://github.com/fujaba/fulibMockups/releases/tag/v0.3.1), 2 months ago) - Tools for generating HTML mockups and Web Apps
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.1](https://github.com/fujaba/fulib.org/releases/tag/v1.6.1), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
