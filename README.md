@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/GenTreeSrc](https://github.com/Clashsoft/GenTreeSrc) (1 day ago) - A tool that generates Tree and Visitor classes from an AST model description file.
+- [Clashsoft/GenTreeSrc](https://github.com/Clashsoft/GenTreeSrc) (today) - A tool that generates Tree and Visitor classes from an AST model description file.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 days ago) - A collection of web apps for various purposes, mostly related to games.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 1.6.X 
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (2 months ago) - Gradle Plugin for Fulib Scenarios
