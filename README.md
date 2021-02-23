@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (today) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) (2 days ago) - Yaml serialization for fulib object models. Used for storage and communication.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/GenTreeSrc](https://github.com/Clashsoft/GenTreeSrc) (2 days ago) - A tool that generates Tree and Visitor classes from an AST model description file.
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (2 days ago) - Additional features for fulib that require some large dependencies.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (4 days ago) - A collection of web apps for various purposes, mostly related to games.
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.5.0](https://github.com/fujaba/fulibTools/releases/tag/v1.5.0), 2 days ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.5.1](https://github.com/fujaba/fulibTools/releases/tag/v1.5.1), today) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.5.1](https://github.com/fujaba/fulib/releases/tag/v1.5.1), 2 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) ([v1.5.0](https://github.com/fujaba/fulibYaml/releases/tag/v1.5.0), 2 days ago) - Yaml serialization for fulib object models. Used for storage and communication.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.3](https://github.com/codemirror/CodeMirror/releases/tag/5.59.3), 3 days ago) - In-browser code editor
