@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.4](https://github.com/codemirror/CodeMirror/releases/tag/5.59.4), today) - In-browser code editor
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.5.1](https://github.com/fujaba/fulibTools/releases/tag/v1.5.1), 1 day ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.5.1](https://github.com/fujaba/fulib/releases/tag/v1.5.1), 3 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) ([v1.5.0](https://github.com/fujaba/fulibYaml/releases/tag/v1.5.0), 3 days ago) - Yaml serialization for fulib object models. Used for storage and communication.
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.59.3](https://github.com/codemirror/CodeMirror/releases/tag/5.59.3), 4 days ago) - In-browser code editor
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.4](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.4), 1 week ago) - A Github action to upgrade a service in Rancher 1.6.X 
 
 #### 👯 Check out some of my recent followers
