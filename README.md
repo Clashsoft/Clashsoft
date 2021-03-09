@@ -8,7 +8,7 @@
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) (1 week ago) - Tools for generating HTML mockups and Web Apps.
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 week ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (2 weeks ago) - Additional features for fulib that require some large dependencies.
 
 #### 🌱 My latest projects
 
