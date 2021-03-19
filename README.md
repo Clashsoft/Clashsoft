@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 2 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 3 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.0](https://github.com/fujaba/fulib.org/releases/tag/v1.7.0), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.4.0](https://github.com/fujaba/fulibMockups/releases/tag/v0.4.0), 3 weeks ago) - Tools for generating HTML mockups and Web Apps.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.0](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.0), 3 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
