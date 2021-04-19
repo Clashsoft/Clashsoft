@@ -21,7 +21,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 2 weeks ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.60.0](https://github.com/codemirror/CodeMirror/releases/tag/5.60.0), 4 weeks ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.60.0](https://github.com/codemirror/CodeMirror/releases/tag/5.60.0), 1 month ago) - In-browser code editor
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.0](https://github.com/fujaba/fulib.org/releases/tag/v1.7.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.4.0](https://github.com/fujaba/fulibMockups/releases/tag/v0.4.0), 1 month ago) - Tools for generating HTML mockups and Web Apps.
