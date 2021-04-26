@@ -8,7 +8,7 @@
 - [fujaba/foolib](https://github.com/fujaba/foolib) (3 weeks ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 month ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 months ago) - The fulib.org website and Fulib Scenarios web app.
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.61.0](https://github.com/codemirror/CodeMirror/releases/tag/5.61.0), 5 days ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.61.0](https://github.com/codemirror/CodeMirror/releases/tag/5.61.0), 6 days ago) - In-browser code editor
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 3 weeks ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.0](https://github.com/fujaba/fulib.org/releases/tag/v1.7.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.0](https://github.com/fujaba/fulib.org/releases/tag/v1.7.0), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.4.0](https://github.com/fujaba/fulibMockups/releases/tag/v0.4.0), 2 months ago) - Tools for generating HTML mockups and Web Apps.
 
 #### 👯 Check out some of my recent followers
