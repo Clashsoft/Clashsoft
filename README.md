@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (6 days ago) - Gradle Plugin for fulib and fulibScenarios
+- [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 week ago) - Gradle Plugin for fulib and fulibScenarios
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (3 weeks ago) - Repository for Bug Issues or Feature Requests
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
