@@ -6,7 +6,7 @@
 
 - [harawata/appdirs](https://github.com/harawata/appdirs) (1 week ago) - A small utility that provides cross platform access to the special folders/directories like application data.
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (2 weeks ago) - Gradle Plugin for fulib and fulibScenarios
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (2 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (3 weeks ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (1 month ago) - Repository for Bug Issues or Feature Requests
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
