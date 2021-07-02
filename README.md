@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
 - [harawata/appdirs](https://github.com/harawata/appdirs) (1 month ago) - A small utility that provides cross platform access to the special folders/directories like application data.
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for fulib and fulibScenarios
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 month ago) - fulibScenarios provides an analyzer for textual example scenarios. 
