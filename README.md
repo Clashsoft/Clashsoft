@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (today) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [harawata/appdirs](https://github.com/harawata/appdirs) (1 month ago) - A small utility that provides cross platform access to the special folders/directories like application data.
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for fulib and fulibScenarios
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (2 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (2 months ago) - Repository for Bug Issues or Feature Requests
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), today) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.1](https://github.com/fujaba/fulib.org/releases/tag/v1.7.1), 1 day ago) - The fulib.org website and Fulib Scenarios web app.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.0](https://github.com/codemirror/CodeMirror/releases/tag/5.62.0), 2 weeks ago) - In-browser code editor
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 3 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [fujaba/fulibMockups](https://github.com/fujaba/fulibMockups) ([v0.4.0](https://github.com/fujaba/fulibMockups/releases/tag/v0.4.0), 4 months ago) - Tools for generating HTML mockups and Web Apps.
 
 #### 👯 Check out some of my recent followers
 
