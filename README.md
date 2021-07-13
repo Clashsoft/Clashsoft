@@ -27,12 +27,14 @@
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 👯 Check out some of my recent followers
+| | |
+|---|---|
 
-- [<img src="https://github.com/Novusvetus.png?size=128" alt="Novusvetus Profile Avatar" width="32"> Novusvetus](https://github.com/Novusvetus)
-- [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32"> Ben-Manfouo](https://github.com/Ben-Manfouo)
-- [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32"> insidelife](https://github.com/insidelife)
-- [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32"> KosrenDQ](https://github.com/KosrenDQ)
-- [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32"> nataschu](https://github.com/nataschu)
+| [<img src="https://github.com/Novusvetus.png?size=128" alt="Novusvetus Profile Avatar" width="32">](https://github.com/Novusvetus) | [Novusvetus](https://github.com/Novusvetus) |
+| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo) | [Ben-Manfouo](https://github.com/Ben-Manfouo) |
+| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife) | [insidelife](https://github.com/insidelife) |
+| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ) | [KosrenDQ](https://github.com/KosrenDQ) |
+| [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32">](https://github.com/nataschu) | [nataschu](https://github.com/nataschu) |
 
 #### ❗ Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
