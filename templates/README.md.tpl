@@ -18,9 +18,9 @@
 {{- end}}
 
 #### 👯 Check out some of my recent followers
-{{range followers 5}}| {{- end }}|
+{{range followers 5}}| [<img src="{{.URL}}.png?size=128" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}}) {{- end }}|
 {{range followers 5}}|:-:{{- end }}|
-{{range followers 5}}| [<img src="{{.URL}}.png?size=128" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}}) <br/> [{{.Login}}]({{.URL}}) {{- end }}|
+{{range followers 5}}| [{{.Login}}]({{.URL}}) {{- end }}|
 
 #### ❗ Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
