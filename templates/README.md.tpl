@@ -19,8 +19,8 @@
 
 #### 👯 Check out some of my recent followers
 | | |
-|---|---|
-{{range followers 5}}| [<img src="{{.URL}}.png?size=128" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}}) | [{{.Login}}]({{.URL}}) |
+|---|---|{{range followers 5}}
+| [<img src="{{.URL}}.png?size=128" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}}) | [{{.Login}}]({{.URL}}) |
 {{- end}}
 
 #### ❗ Want your own profile-readme?
