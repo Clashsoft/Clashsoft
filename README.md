@@ -1,6 +1,7 @@
 #### 🔅 Stats
 
-![Clashsoft Profile Stats](https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff)
+![Clashsoft Profile Stats](https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&hide_rank=true)
+![Clashsoft Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Clashsoft&layout=compact&icon_color=0075ff&show_icons=true&langs_count=10)
 
 #### 👷 Check out what I'm currently working on
 
