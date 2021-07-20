@@ -21,9 +21,9 @@
 
 #### 🗜 Latest releases I've contributed to
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.1](https://github.com/codemirror/CodeMirror/releases/tag/5.62.1), today) - In-browser code editor
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 1 week ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.1](https://github.com/fujaba/fulib.org/releases/tag/v1.7.1), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.0](https://github.com/codemirror/CodeMirror/releases/tag/5.62.0), 4 weeks ago) - In-browser code editor
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 3 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 4 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
