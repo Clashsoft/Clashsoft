@@ -30,9 +30,9 @@
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 4 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 🚶 Check out some of my recent followers
-| [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Novusvetus.png?size=128" alt="Novusvetus Profile Avatar" width="32">](https://github.com/Novusvetus)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)|
+| [<img src="https://github.com/Novusvetus.png?size=128" alt="Novusvetus Profile Avatar" width="32">](https://github.com/Novusvetus)| [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)|
 |:-:|:-:|:-:|:-:|:-:|
-| [Liphip](https://github.com/Liphip)| [Novusvetus](https://github.com/Novusvetus)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)| [KosrenDQ](https://github.com/KosrenDQ)|
+| [Novusvetus](https://github.com/Novusvetus)| [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)| [KosrenDQ](https://github.com/KosrenDQ)|
 
 #### 📇 Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
