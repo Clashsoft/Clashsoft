@@ -7,8 +7,8 @@
 
 #### 👨‍💻 Check out what I'm currently working on
 
+- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (today) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (6 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 month ago) - An Angular wrapper for bootstrap-darkmode.
 - [harawata/appdirs](https://github.com/harawata/appdirs) (2 months ago) - A small utility that provides cross platform access to the special folders/directories like application data.
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (2 months ago) - Gradle Plugin for fulib and fulibScenarios
