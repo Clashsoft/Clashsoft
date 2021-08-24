@@ -1,9 +1,36 @@
+#### 👨‍💻 About Me
+
+Hi there, I'm Adrian and currently a Master's Student of Computer Science.
+Feel free to take a look around my profile, during my studies and as a hobby I created many different software projects.
+Not all of them are in my personal profile, so check out some of the awesome organizations that I worked in:
+
+- [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
+- [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
+- [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
+- [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a different project and larger team.
+
+Want to see my work without reading a bunch of code?
+Here are some of my showoff projects, available to all on the web:
+
+- [fulib.org](https://www.fulib.org) - A web app for a textual example (scenario) programming language, complete with a web IDE and homework grading etc.
+- [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
+
+And for those of you into reading, here are some of my papers and theses (in increasing order of quality and proudness):
+
+- [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) - A seminar paper about the Groovy programming language.
+- [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla.
+- [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) - My bachelor thesis, titled "Natural Language Pattern Matching for Natural Language Object Scenarios".
+- Master Thesis - Coming soon.
+
+---
+
 #### 📊 Stats
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true" alt="Clashsoft Profile Stats">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clashsoft&layout=compact&theme=dark&langs_count=10" alt="Clashsoft Language Stats">
+  <p><small><sub>Because I do a lot of work in other orgs, those are not really representative of programming language distribution.</sub></small></p>
   
   <a href="https://wakatime.com/@Clashsoft">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clashsoft&theme=dark&layout=compact&langs_count=10" alt="Clashsoft Time Stats">
@@ -12,7 +39,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Clashsoft&theme=dark" alt="Clashsoft Streak Stats">
 </div>
 
-#### 👨‍💻 Check out what I'm currently working on
+#### 👷‍ Check out what I'm currently working on
 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
@@ -40,6 +67,8 @@
 | [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)| [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32">](https://github.com/nataschu)|
 |:-:|:-:|:-:|:-:|:-:|
 | [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)| [KosrenDQ](https://github.com/KosrenDQ)| [nataschu](https://github.com/nataschu)|
+
+---
 
 #### 📇 Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
