@@ -7,20 +7,20 @@ Not all of them are in my personal profile, so check out some of the awesome org
 - [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
 - [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
-- [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a different project and larger team.
+- [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
 Want to see my work without reading a bunch of code?
 Here are some of my showoff projects, available to all on the web:
 
-- [fulib.org](https://www.fulib.org) - A web app for a textual example (scenario) programming language, complete with a web IDE and homework grading etc.
+- [fulib.org](https://www.fulib.org) - A web app for a textual example language, with a web IDE and homework grading etc.
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
 
 And for those of you into reading, here are some of my papers and theses (in increasing order of quality and proudness):
 
-- [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) - A seminar paper about the Groovy programming language.
-- [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla.
-- [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) - My bachelor thesis, titled "Natural Language Pattern Matching for Natural Language Object Scenarios".
-- Master Thesis - Coming soon.
+- [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) (2018) - A seminar paper about the Groovy programming language.
+- [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) (2020) - A seminar paper about the OpenJDK project Valhalla.
+- [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2020) - My bachelor thesis, titled "Natural Language Pattern Matching for Natural Language Object Scenarios".
+- Master Thesis (TBD) - Coming soon.
 
 ---
 
@@ -29,9 +29,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true" alt="Clashsoft Profile Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clashsoft&layout=compact&theme=dark&langs_count=10" alt="Clashsoft Language Stats">
-  <p><small><sub>Because I do a lot of work in other orgs, those are not really representative of programming language distribution.</sub></small></p>
-  
+    
+
   <a href="https://wakatime.com/@Clashsoft">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clashsoft&theme=dark&layout=compact&langs_count=10" alt="Clashsoft Time Stats">
   </a>
