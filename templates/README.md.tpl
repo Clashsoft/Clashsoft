@@ -1,9 +1,16 @@
 #### 📊 Stats
 
-![Clashsoft Profile Stats](https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
-![Clashsoft Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Clashsoft&layout=compact&theme=dark&icon_color=0075ff&show_icons=true&langs_count=10)
-[![Clashsoft Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clashsoft&theme=dark&layout=compact&langs_count=10)](https://wakatime.com/@Clashsoft)
-![Clashsoft Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Clashsoft&theme=dark)
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Clashsoft&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true" alt="Clashsoft Profile Stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clashsoft&layout=compact&theme=dark&langs_count=10" alt="Clashsoft Language Stats">
+  
+  <a href="https://wakatime.com/@Clashsoft">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clashsoft&theme=dark&layout=compact&langs_count=10" alt="Clashsoft Time Stats">
+  </a>
+
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Clashsoft&theme=dark" alt="Clashsoft Streak Stats">
+</div>
 
 #### 👨‍💻 Check out what I'm currently working on
 {{range recentContributions 5}}
