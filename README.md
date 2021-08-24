@@ -7,8 +7,8 @@
 
 #### 👨‍💻 Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios web app.
-- [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (2 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 month ago) - An Angular wrapper for bootstrap-darkmode.
@@ -23,9 +23,9 @@
 
 #### 🗜 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.3](https://github.com/codemirror/CodeMirror/releases/tag/5.62.3), 3 days ago) - In-browser code editor
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.8.0](https://github.com/fujaba/fulib.org/releases/tag/v1.8.0), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.0](https://github.com/fujaba/fulib/releases/tag/v1.6.0), 1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.3](https://github.com/codemirror/CodeMirror/releases/tag/5.62.3), 4 days ago) - In-browser code editor
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.8.0](https://github.com/fujaba/fulib.org/releases/tag/v1.8.0), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.0](https://github.com/fujaba/fulib/releases/tag/v1.6.0), 2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 1 month ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 4 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 
