@@ -9,11 +9,15 @@ Not all of them are in my personal profile, so check out some of the awesome org
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
 - [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
+#### 🏠 Websites
+
 Want to see my work without reading a bunch of code?
 Here are some of my showoff projects, available to all on the web:
 
 - [fulib.org](https://www.fulib.org) - A web app for a textual example language, with a web IDE and homework grading etc.
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
+
+#### 📄 Papers
 
 And for those of you into reading, here are some of my papers and theses (in increasing order of quality and proudness):
 
