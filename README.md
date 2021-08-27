@@ -44,11 +44,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (today) - :zap: Dynamically generated stats for your github readmes
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (2 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 month ago) - An Angular wrapper for bootstrap-darkmode.
 
 #### 🌱 My latest projects
 
