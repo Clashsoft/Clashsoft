@@ -44,11 +44,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (today) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (5 days ago) - :zap: Dynamically generated stats for your github readmes
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (3 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (3 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (3 weeks ago) - A collection of web apps for various purposes, mostly related to games.
 
 #### 🌱 My latest projects
 
