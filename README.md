@@ -44,19 +44,19 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (today) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (5 days ago) - :zap: Dynamically generated stats for your github readmes
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
+- [Clashsoft/www.clashsoft.de](https://github.com/Clashsoft/www.clashsoft.de) (today) - 
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (1 day ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (6 days ago) - :zap: Dynamically generated stats for your github readmes
 - [fujaba/fulib](https://github.com/fujaba/fulib) (3 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (3 weeks ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 
 #### 🌱 My latest projects
 
+- [Clashsoft/www.clashsoft.de](https://github.com/Clashsoft/www.clashsoft.de) - 
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) - HTTP server that controls my LED strip
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) - Integrate Angular frontends into your Gradle build.
 
 #### 🗜 Latest releases I've contributed to
 
