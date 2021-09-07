@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+title: Clashsoft
+email: clashsoft@example.com
+description: >-
+  Welcome to my personal site!
+baseurl: ""
+url: "https://www.clashsoft.de"
+twitter_username: Clashsoft
+github_username: Clashsoft
+theme: minima
+plugins:
+  - jekyll-feed
