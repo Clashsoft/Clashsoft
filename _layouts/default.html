@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+{%- include head.html -%}
+
+<body class="d-flex flex-column vw-100 vh-100" data-theme="auto">
+
+{%- include header.html -%}
+<script>
+  const nav = document.getElementsByTagName('nav')[0];
+  nav.classList.remove('navbar-light');
+  nav.classList.remove('bg-light');
+  nav.classList.add('navbar-dark');
+  nav.classList.add('bg-dark');
+</script>
+
+<main class="page-content py-5 flex-shrink-0" aria-label="Content">
+	<div class="container">
+		{{ content }}
+	</div>
+</main>
+
+{%- include footer.html -%}
+
+<script src="/assets/js/bootstrap.bundle.min.js"></script>
+<script>
+  const footer = document.getElementsByTagName('footer')[0];
+  footer.classList.remove('bg-light');
+  footer.classList.add('bg-dark');
+</script>
+</body>
+
+</html>
