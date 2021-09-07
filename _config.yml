@@ -7,6 +7,13 @@ url: "https://www.clashsoft.de"
 twitter_username: Clashsoft
 github_username: Clashsoft
 theme: minima
+markdown: commonmark
+commonmark:
+  extensions:
+    - table
+    - tasklist
+    - strikethrough
+    - autolink
 plugins:
   - jekyll-feed
   - jekyll-readme-index
