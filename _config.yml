@@ -9,3 +9,4 @@ github_username: Clashsoft
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-readme-index
