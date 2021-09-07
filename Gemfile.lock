@@ -273,7 +273,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 219)
-  jekyll-commonmark
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
   minima (~> 2.5)
