@@ -67,8 +67,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 5 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 
 #### 🚶 Check out some of my recent followers
+
 | [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)| [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32">](https://github.com/nataschu)|
-|:-:|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|:---:|
 | [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)| [KosrenDQ](https://github.com/KosrenDQ)| [nataschu](https://github.com/nataschu)|
 
 ---
