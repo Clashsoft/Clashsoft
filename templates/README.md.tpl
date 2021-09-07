@@ -61,8 +61,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 {{- end}}
 
 #### 🚶 Check out some of my recent followers
+
 {{range followers 5}}| [<img src="{{.URL}}.png?size=128" alt="{{.Login}} Profile Avatar" width="32">]({{.URL}}) {{- end }}|
-{{range followers 5}}|:-:{{- end }}|
+{{range followers 5}}|:---:{{- end }}|
 {{range followers 5}}| [{{.Login}}]({{.URL}}) {{- end }}|
 
 ---
