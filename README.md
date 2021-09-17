@@ -46,7 +46,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 week ago) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (2 weeks ago) - :zap: Dynamically generated stats for your github readmes
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (3 weeks ago) - :zap: Dynamically generated stats for your github readmes
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
@@ -60,7 +60,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.3](https://github.com/codemirror/CodeMirror/releases/tag/5.62.3), 3 weeks ago) - In-browser code editor
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.62.3](https://github.com/codemirror/CodeMirror/releases/tag/5.62.3), 4 weeks ago) - In-browser code editor
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.8.0](https://github.com/fujaba/fulib.org/releases/tag/v1.8.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.0](https://github.com/fujaba/fulib/releases/tag/v1.6.0), 1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 2 months ago) - An Angular wrapper for bootstrap-darkmode.
