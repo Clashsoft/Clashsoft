@@ -60,11 +60,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) ([5.63.0](https://github.com/codemirror/CodeMirror/releases/tag/5.63.0), today) - In-browser code editor
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.8.0](https://github.com/fujaba/fulib.org/releases/tag/v1.8.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.0](https://github.com/fujaba/fulib/releases/tag/v1.6.0), 1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 2 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 5 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 6 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 🚶 Check out some of my recent followers
 
