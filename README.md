@@ -46,7 +46,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
-- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (2 weeks ago) - Event Storming to Microservices support
+- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (2 weeks ago) - fulibWorkflows provides an analyzer for event modelling
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 month ago) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 months ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 
