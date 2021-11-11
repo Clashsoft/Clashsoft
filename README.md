@@ -64,7 +64,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.0](https://github.com/fujaba/fulib/releases/tag/v1.6.0), 3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 4 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 7 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 7 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 8 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 🚶 Check out some of my recent followers
 
