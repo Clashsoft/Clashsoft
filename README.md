@@ -44,11 +44,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (4 weeks ago) - fulibWorkflows provides an analyzer for event modelling
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
-- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 months ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 
 #### 🌱 My latest projects
 
