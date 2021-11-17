@@ -44,19 +44,19 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/story-service](https://github.com/Clashsoft/story-service) (today) - Backend service for the story tracker on app.clashsoft.de.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (4 days ago) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (1 month ago) - fulibWorkflows provides an analyzer for event modelling
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (2 months ago) - An Angular wrapper for bootstrap-darkmode.
 
 #### 🌱 My latest projects
 
+- [Clashsoft/story-service](https://github.com/Clashsoft/story-service) - Backend service for the story tracker on app.clashsoft.de.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) - HTTP server that controls my LED strip
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) - Integrate Angular frontends into your Gradle build.
 
 #### 🗜 Latest releases I've contributed to
 
