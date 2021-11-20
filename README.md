@@ -44,27 +44,27 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (today) - Extensions for ng-bootstrap
 - [Clashsoft/story-service](https://github.com/Clashsoft/story-service) (1 day ago) - Backend service for the story tracker on app.clashsoft.de.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (4 weeks ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
-- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (1 month ago) - fulibWorkflows provides an analyzer for event modelling
 
 #### 🌱 My latest projects
 
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) - Extensions for ng-bootstrap
 - [Clashsoft/story-service](https://github.com/Clashsoft/story-service) - Backend service for the story tracker on app.clashsoft.de.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) - HTTP server that controls my LED strip
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) - An Angular wrapper for bootstrap-darkmode.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) - A collection of web apps for various purposes, mostly related to games.
-- [Clashsoft/Seminar-Valhalla](https://github.com/Clashsoft/Seminar-Valhalla) - A seminar paper about the OpenJDK project Valhalla, written for the Seminar &#34;Java Features von Morgen&#34; in Summer Term 2020 at the University of Kassel
 
 #### 🗜 Latest releases I've contributed to
 
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), today) - Extensions for ng-bootstrap
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.9.0](https://github.com/fujaba/fulib.org/releases/tag/v1.9.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.0](https://github.com/fujaba/fulib/releases/tag/v1.6.0), 3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 4 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 7 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 8 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 🚶 Check out some of my recent followers
 
