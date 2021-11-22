@@ -44,9 +44,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 days ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/story-service](https://github.com/Clashsoft/story-service) (today) - Backend service for the story tracker on app.clashsoft.de.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (today) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 days ago) - Extensions for ng-bootstrap
-- [Clashsoft/story-service](https://github.com/Clashsoft/story-service) (3 days ago) - Backend service for the story tracker on app.clashsoft.de.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 month ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 
