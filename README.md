@@ -44,7 +44,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 days ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games.
@@ -60,7 +60,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.3.0](https://github.com/fujaba/fulibFeedback/releases/tag/v0.3.0), 1 week ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.3.0](https://github.com/fujaba/fulibFeedback/releases/tag/v0.3.0), 2 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.9.1](https://github.com/fujaba/fulib.org/releases/tag/v1.9.1), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.1](https://github.com/fujaba/fulib/releases/tag/v1.6.1), 2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 3 weeks ago) - Extensions for ng-bootstrap
