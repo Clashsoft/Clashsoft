@@ -44,7 +44,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (today) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 day ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
@@ -60,7 +60,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.3.0](https://github.com/fujaba/fulibFeedback/releases/tag/v0.3.0), 4 weeks ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.3.0](https://github.com/fujaba/fulibFeedback/releases/tag/v0.3.0), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.1](https://github.com/fujaba/fulib/releases/tag/v1.6.1), 1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 1 month ago) - Extensions for ng-bootstrap
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 5 months ago) - An Angular wrapper for bootstrap-darkmode.
