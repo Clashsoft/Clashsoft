@@ -44,9 +44,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (today) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (today) - IDE plugins for grading fulib.org Assignments.
-- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) (6 days ago) - A little Calculator for The Dyson Sphere Program.
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (1 day ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
+- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) (1 week ago) - A little Calculator for The Dyson Sphere Program.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
@@ -60,10 +60,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.6.0](https://github.com/fujaba/fulibFeedback/releases/tag/v0.6.0), today) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.6.0](https://github.com/fujaba/fulibFeedback/releases/tag/v0.6.0), 1 day ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.1](https://github.com/fujaba/fulib/releases/tag/v1.6.1), 1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 1 month ago) - Extensions for ng-bootstrap
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 5 months ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 6 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 9 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 
 #### 🚶 Check out some of my recent followers
