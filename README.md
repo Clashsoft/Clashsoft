@@ -44,11 +44,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (today) - Extensions for ng-bootstrap
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (2 days ago) - Gradle Plugin for fulib and fulibScenarios
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 days ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (3 days ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (6 days ago) - IDE plugins for grading fulib.org Assignments.
-- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) (1 week ago) - A little Calculator for The Dyson Sphere Program.
 
 #### 🌱 My latest projects
 
