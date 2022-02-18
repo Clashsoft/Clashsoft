@@ -62,7 +62,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.7.1](https://github.com/fujaba/fulibFeedback/releases/tag/v0.7.1), 2 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.1](https://github.com/fujaba/fulib/releases/tag/v1.6.1), 2 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 2 months ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 3 months ago) - Extensions for ng-bootstrap
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 7 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 10 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 
