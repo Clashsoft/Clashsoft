@@ -44,8 +44,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (today) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 days ago) - A collection of web apps for various purposes, mostly related to games.
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (2 days ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 month ago) - Extensions for ng-bootstrap
@@ -68,9 +68,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)| [<img src="https://github.com/nataschu.png?size=128" alt="nataschu Profile Avatar" width="32">](https://github.com/nataschu)|
+| [<img src="https://github.com/UeberallGebannt.png?size=128" alt="UeberallGebannt Profile Avatar" width="32">](https://github.com/UeberallGebannt)| [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)| [<img src="https://github.com/KosrenDQ.png?size=128" alt="KosrenDQ Profile Avatar" width="32">](https://github.com/KosrenDQ)|
 |:---:|:---:|:---:|:---:|:---:|
-| [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)| [KosrenDQ](https://github.com/KosrenDQ)| [nataschu](https://github.com/nataschu)|
+| [UeberallGebannt](https://github.com/UeberallGebannt)| [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)| [KosrenDQ](https://github.com/KosrenDQ)|
 
 ---
 
