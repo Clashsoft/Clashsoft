@@ -44,10 +44,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (2 days ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
-- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (6 days ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (3 days ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
+- [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (1 week ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (3 weeks ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (4 weeks ago) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 month ago) - IDE plugins for grading fulib.org Assignments.
 
 #### 🌱 My latest projects
@@ -63,7 +63,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.10.0](https://github.com/fujaba/fulib.org/releases/tag/v1.10.0), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.7.1](https://github.com/fujaba/fulibFeedback/releases/tag/v0.7.1), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.1](https://github.com/fujaba/fulib/releases/tag/v1.6.1), 3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 3 months ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) ([v0.1.0](https://github.com/Clashsoft/ng-bootstrap-ext/releases/tag/v0.1.0), 4 months ago) - Extensions for ng-bootstrap
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v0.5.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v0.5.0), 8 months ago) - An Angular wrapper for bootstrap-darkmode.
 
 #### 🚶 Check out some of my recent followers
