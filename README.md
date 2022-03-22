@@ -44,10 +44,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (4 days ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (5 days ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (1 week ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (4 weeks ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 month ago) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 month ago) - IDE plugins for grading fulib.org Assignments.
 
 #### 🌱 My latest projects
