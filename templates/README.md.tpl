@@ -24,7 +24,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) (2018) - A seminar paper about the Groovy programming language.
 - [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) (2020) - A seminar paper about the OpenJDK project Valhalla.
 - [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2020) - "Natural Language Pattern Matching for Natural Language Object Scenarios".
-- [Master Thesis](https://github.com/Clashsoft/Master-Thesis) (2022) - "Automatic Feedback for Object-Oriented Programming Assignments".
+- [Master Thesis](https://github.com/Clashsoft/Master-Thesis) (2022) - "Tool-assisted Feedback for Programming Assignments".
 
 ---
 
