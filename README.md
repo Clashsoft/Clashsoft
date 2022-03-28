@@ -24,7 +24,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) (2018) - A seminar paper about the Groovy programming language.
 - [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) (2020) - A seminar paper about the OpenJDK project Valhalla.
 - [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2020) - "Natural Language Pattern Matching for Natural Language Object Scenarios".
-- [Master Thesis](https://github.com/Clashsoft/Master-Thesis) (2022) - "Automatic Feedback for Object-Oriented Programming Assignments".
+- [Master Thesis](https://github.com/Clashsoft/Master-Thesis) (2022) - "Tool-assisted Feedback for Programming Assignments".
 
 ---
 
@@ -44,7 +44,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (1 day ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (today) - My master thesis, titled &#34;Tool-assisted Feedback for Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 weeks ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🌱 My latest projects
 
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) - My master thesis, titled &#34;Tool-assisted Feedback for Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) - Extensions for ng-bootstrap
 - [Clashsoft/story-service](https://github.com/Clashsoft/story-service) - Backend service for the story tracker on app.clashsoft.de.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) - HTTP server that controls my LED strip
@@ -60,7 +60,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 1 day ago) - My master thesis, titled &#34;Automatic Feedback for Object-Oriented Programming Assignments&#34;, written in Winter 2021 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 1 day ago) - My master thesis, titled &#34;Tool-assisted Feedback for Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.4.4](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.4.4), 6 days ago) - fulibWorkflows provides an analyzer for event modelling
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.10.0](https://github.com/fujaba/fulib.org/releases/tag/v1.10.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.7.1](https://github.com/fujaba/fulibFeedback/releases/tag/v0.7.1), 1 month ago) - IDE plugins for grading fulib.org Assignments.
