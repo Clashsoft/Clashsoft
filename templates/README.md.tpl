@@ -21,6 +21,7 @@ Here are some of my showoff projects, available to all on the web:
 
 And for those of you into reading, here are some of my papers and theses (in increasing order of quality and proudness):
 
+- Fusion Seminar Paper (2015, TBP) - "Energy production with nuclear fusion".
 - [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) (2018) - A seminar paper about the Groovy programming language.
 - [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) (2020) - A seminar paper about the OpenJDK project Valhalla.
 - [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2020) - "Natural Language Pattern Matching for Natural Language Object Scenarios".
