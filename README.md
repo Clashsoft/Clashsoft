@@ -46,7 +46,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (1 month ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (2 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 months ago) - IDE plugins for grading fulib.org Assignments.
 - [Clashsoft/Bachelor-Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2 months ago) - My bachelor thesis, titled &#34;Natural Language Pattern Matching for Natural Language Object Scenarios&#34;, written in Spring 2020 at the University of Kassel
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (3 months ago) - A collection of web apps for various purposes, mostly related to games.
@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([14.0.0-rc.2](https://github.com/angular/angular/releases/tag/14.0.0-rc.2), 1 day ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([14.0.0-rc.2](https://github.com/angular/angular/releases/tag/14.0.0-rc.2), 2 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 2 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.4.4](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.4.4), 2 months ago) - fulibWorkflows provides an analyzer for event modelling
