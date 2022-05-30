@@ -1,6 +1,6 @@
 #### 👨‍💻 About Me
 
-Hi there, I'm Adrian and currently a Master's Student of Computer Science.
+Hi there, I'm Adrian and currently a PhD Student of Computer Science.
 Feel free to take a look around my profile, during my studies and as a hobby I created many different software projects.
 Not all of them are in my personal profile, so check out some of the awesome organizations that I worked in:
 
