@@ -45,7 +45,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 day ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 days ago) - Extensions for ng-bootstrap
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) (2 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 months ago) - IDE plugins for grading fulib.org Assignments.
@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([14.0.0-rc.2](https://github.com/angular/angular/releases/tag/14.0.0-rc.2), 4 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([14.0.0-rc.2](https://github.com/angular/angular/releases/tag/14.0.0-rc.2), 5 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 2 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.4.4](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.4.4), 2 months ago) - fulibWorkflows provides an analyzer for event modelling
@@ -69,9 +69,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/strategist922.png?size=128" alt="strategist922 Profile Avatar" width="32">](https://github.com/strategist922)| [<img src="https://github.com/UeberallGebannt.png?size=128" alt="UeberallGebannt Profile Avatar" width="32">](https://github.com/UeberallGebannt)| [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)| [<img src="https://github.com/insidelife.png?size=128" alt="insidelife Profile Avatar" width="32">](https://github.com/insidelife)|
+| [<img src="https://github.com/ClemensEmme.png?size=128" alt="ClemensEmme Profile Avatar" width="32">](https://github.com/ClemensEmme)| [<img src="https://github.com/strategist922.png?size=128" alt="strategist922 Profile Avatar" width="32">](https://github.com/strategist922)| [<img src="https://github.com/UeberallGebannt.png?size=128" alt="UeberallGebannt Profile Avatar" width="32">](https://github.com/UeberallGebannt)| [<img src="https://github.com/Liphip.png?size=128" alt="Liphip Profile Avatar" width="32">](https://github.com/Liphip)| [<img src="https://github.com/Ben-Manfouo.png?size=128" alt="Ben-Manfouo Profile Avatar" width="32">](https://github.com/Ben-Manfouo)|
 |:---:|:---:|:---:|:---:|:---:|
-| [strategist922](https://github.com/strategist922)| [UeberallGebannt](https://github.com/UeberallGebannt)| [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)| [insidelife](https://github.com/insidelife)|
+| [ClemensEmme](https://github.com/ClemensEmme)| [strategist922](https://github.com/strategist922)| [UeberallGebannt](https://github.com/UeberallGebannt)| [Liphip](https://github.com/Liphip)| [Ben-Manfouo](https://github.com/Ben-Manfouo)|
 
 ---
 
