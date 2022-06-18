@@ -45,11 +45,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/conserve-web](https://github.com/GeminiEnergySolutions/conserve-web) (6 days ago) - Conserve Web App
+- [GeminiEnergySolutions/conserve-web](https://github.com/GeminiEnergySolutions/conserve-web) (1 week ago) - Conserve Web App
 - [sekassel/douala2022](https://github.com/sekassel/douala2022) (1 week ago) - 
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (1 week ago) - HTTP server that controls my LED strip
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 weeks ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (3 weeks ago) - Extensions for ng-bootstrap
 
 #### 🌱 My latest projects
 
@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([14.1.0-next.1](https://github.com/angular/angular/releases/tag/14.1.0-next.1), 2 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([14.1.0-next.1](https://github.com/angular/angular/releases/tag/14.1.0-next.1), 3 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 2 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.4.4](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.4.4), 2 months ago) - fulibWorkflows provides an analyzer for event modelling
