@@ -46,7 +46,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [GeminiEnergySolutions/conserve-web](https://github.com/GeminiEnergySolutions/conserve-web) (1 month ago) - Conserve Web App
-- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (1 month ago) - fulibWorkflows provides an analyzer for event modelling
+- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (2 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [sekassel/douala2022](https://github.com/sekassel/douala2022) (2 months ago) - 
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) (2 months ago) - HTTP server that controls my LED strip
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 months ago) - A collection of web apps for various purposes, mostly related to games.
@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([14.2.0-rc.0](https://github.com/angular/angular/releases/tag/14.2.0-rc.0), 5 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([14.2.0-rc.0](https://github.com/angular/angular/releases/tag/14.2.0-rc.0), 6 days ago) - The modern web developer’s platform
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 2 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 4 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 4 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
