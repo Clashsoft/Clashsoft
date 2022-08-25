@@ -45,7 +45,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [sekassel-research/stp-22-server](https://github.com/sekassel-research/stp-22-server) (6 days ago) - STP Server for Summer Term 2022 for the game Settlers of Catan.
+- [sekassel-research/stp-22-server](https://github.com/sekassel-research/stp-22-server) (1 week ago) - STP Server for Summer Term 2022 for the game Settlers of Catan.
 - [GeminiEnergySolutions/conserve-web](https://github.com/GeminiEnergySolutions/conserve-web) (2 months ago) - Conserve Web App
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) (2 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [sekassel/douala2022](https://github.com/sekassel/douala2022) (2 months ago) - 
