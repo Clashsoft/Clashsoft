@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.0.0-next.2](https://github.com/angular/angular/releases/tag/15.0.0-next.2), 5 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([15.0.0-next.2](https://github.com/angular/angular/releases/tag/15.0.0-next.2), 6 days ago) - The modern web developer’s platform
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 3 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.11.0](https://github.com/fujaba/fulib.org/releases/tag/v1.11.0), 5 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 5 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
@@ -69,9 +69,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)| [<img src="https://github.com/ChristophLandow.png?size=128" alt="ChristophLandow Profile Avatar" width="32">](https://github.com/ChristophLandow)| [<img src="https://github.com/Giulcoo.png?size=128" alt="Giulcoo Profile Avatar" width="32">](https://github.com/Giulcoo)| [<img src="https://github.com/dvyosuico.png?size=128" alt="dvyosuico Profile Avatar" width="32">](https://github.com/dvyosuico)| [<img src="https://github.com/ClemensEmme.png?size=128" alt="ClemensEmme Profile Avatar" width="32">](https://github.com/ClemensEmme)|
+| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)| [<img src="https://github.com/ChristophLandow.png?size=128" alt="ChristophLandow Profile Avatar" width="32">](https://github.com/ChristophLandow)| [<img src="https://github.com/Giulcoo.png?size=128" alt="Giulcoo Profile Avatar" width="32">](https://github.com/Giulcoo)| [<img src="https://github.com/dvyosuico.png?size=128" alt="dvyosuico Profile Avatar" width="32">](https://github.com/dvyosuico)|
 |:---:|:---:|:---:|:---:|:---:|
-| [b1ck](https://github.com/b1ck)| [ChristophLandow](https://github.com/ChristophLandow)| [Giulcoo](https://github.com/Giulcoo)| [dvyosuico](https://github.com/dvyosuico)| [ClemensEmme](https://github.com/ClemensEmme)|
+| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)| [ChristophLandow](https://github.com/ChristophLandow)| [Giulcoo](https://github.com/Giulcoo)| [dvyosuico](https://github.com/dvyosuico)|
 
 ---
 
