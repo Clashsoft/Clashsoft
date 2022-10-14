@@ -45,8 +45,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 days ago) - Extensions for ng-bootstrap
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (3 days ago) - Extensions for ng-bootstrap
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib.org website and Fulib Scenarios web app.
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (1 month ago) - Vorlage für Dokumentationen und Abschlussarbeiten
 - [sekassel-research/stp-22-server](https://github.com/sekassel-research/stp-22-server) (1 month ago) - STP Server for Summer Term 2022 for the game Settlers of Catan.
@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.0.0-next.6](https://github.com/angular/angular/releases/tag/15.0.0-next.6), 1 day ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([15.0.0-next.6](https://github.com/angular/angular/releases/tag/15.0.0-next.6), 2 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.12.0](https://github.com/fujaba/fulib.org/releases/tag/v1.12.0), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 3 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 6 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
