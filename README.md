@@ -45,7 +45,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 month ago) - Extensions for ng-bootstrap
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.0.1](https://github.com/angular/angular/releases/tag/15.0.1), 2 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([15.0.1](https://github.com/angular/angular/releases/tag/15.0.1), 3 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.12.0](https://github.com/fujaba/fulib.org/releases/tag/v1.12.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 5 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 8 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
@@ -69,9 +69,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)| [<img src="https://github.com/ChristophLandow.png?size=128" alt="ChristophLandow Profile Avatar" width="32">](https://github.com/ChristophLandow)| [<img src="https://github.com/Giulcoo.png?size=128" alt="Giulcoo Profile Avatar" width="32">](https://github.com/Giulcoo)| [<img src="https://github.com/dvyosuico.png?size=128" alt="dvyosuico Profile Avatar" width="32">](https://github.com/dvyosuico)|
+| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)| [<img src="https://github.com/ChristophLandow.png?size=128" alt="ChristophLandow Profile Avatar" width="32">](https://github.com/ChristophLandow)| [<img src="https://github.com/Giulcoo.png?size=128" alt="Giulcoo Profile Avatar" width="32">](https://github.com/Giulcoo)|
 |:---:|:---:|:---:|:---:|:---:|
-| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)| [ChristophLandow](https://github.com/ChristophLandow)| [Giulcoo](https://github.com/Giulcoo)| [dvyosuico](https://github.com/dvyosuico)|
+| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)| [ChristophLandow](https://github.com/ChristophLandow)| [Giulcoo](https://github.com/Giulcoo)|
 
 ---
 
