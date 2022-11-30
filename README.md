@@ -45,11 +45,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [fujaba/fulib](https://github.com/fujaba/fulib) (2 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib.org website and Fulib Scenarios web app.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (4 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [fujaba/fulib](https://github.com/fujaba/fulib) (3 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 month ago) - Extensions for ng-bootstrap
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib.org website and Fulib Scenarios web app.
 
 #### 🌱 My latest projects
 
@@ -61,9 +61,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 3 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [angular/angular](https://github.com/angular/angular) ([15.0.1](https://github.com/angular/angular/releases/tag/15.0.1), 6 days ago) - The modern web developer’s platform
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.12.0](https://github.com/fujaba/fulib.org/releases/tag/v1.12.0), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.0](https://github.com/fujaba/fulib.org/releases/tag/v1.13.0), 1 day ago) - The fulib.org website and Fulib Scenarios web app.
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 4 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [angular/angular](https://github.com/angular/angular) ([15.0.1](https://github.com/angular/angular/releases/tag/15.0.1), 1 week ago) - The modern web developer’s platform
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 5 months ago) - fulibWorkflows provides an analyzer for event modelling
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 8 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 
