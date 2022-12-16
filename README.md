@@ -45,10 +45,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 day ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 days ago) - Extensions for ng-bootstrap
 - [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (1 week ago) - 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - IDE plugins for grading fulib.org Assignments.
-- [typestack/class-validator](https://github.com/typestack/class-validator) (1 week ago) - Decorator-based property validation for classes.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 weeks ago) - IDE plugins for grading fulib.org Assignments.
+- [typestack/class-validator](https://github.com/typestack/class-validator) (2 weeks ago) - Decorator-based property validation for classes.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 
 #### 🌱 My latest projects
@@ -61,9 +61,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.1.0-next.3](https://github.com/angular/angular/releases/tag/15.1.0-next.3), 1 day ago) - The modern web developer’s platform
-- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 6 days ago) - Decorator-based property validation for classes.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.1](https://github.com/fujaba/fulib.org/releases/tag/v1.13.1), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
+- [angular/angular](https://github.com/angular/angular) ([15.1.0-next.3](https://github.com/angular/angular/releases/tag/15.1.0-next.3), 2 days ago) - The modern web developer’s platform
+- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 1 week ago) - Decorator-based property validation for classes.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.1](https://github.com/fujaba/fulib.org/releases/tag/v1.13.1), 2 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 5 months ago) - fulibWorkflows provides an analyzer for event modelling
 
