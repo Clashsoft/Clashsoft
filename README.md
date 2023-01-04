@@ -45,8 +45,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (5 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 week ago) - Extensions for ng-bootstrap
 - [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (2 weeks ago) - 
 - [typestack/class-validator](https://github.com/typestack/class-validator) (1 month ago) - Decorator-based property validation for classes.
@@ -61,17 +61,17 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 5 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [angular/angular](https://github.com/angular/angular) ([15.1.0-next.3](https://github.com/angular/angular/releases/tag/15.1.0-next.3), 2 weeks ago) - The modern web developer’s platform
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [angular/angular](https://github.com/angular/angular) ([15.1.0-next.3](https://github.com/angular/angular/releases/tag/15.1.0-next.3), 3 weeks ago) - The modern web developer’s platform
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 3 weeks ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 6 months ago) - fulibWorkflows provides an analyzer for event modelling
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)| [<img src="https://github.com/ChristophLandow.png?size=128" alt="ChristophLandow Profile Avatar" width="32">](https://github.com/ChristophLandow)|
+| [<img src="https://github.com/AbdeenM.png?size=128" alt="AbdeenM Profile Avatar" width="32">](https://github.com/AbdeenM)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)|
 |:---:|:---:|:---:|:---:|:---:|
-| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)| [ChristophLandow](https://github.com/ChristophLandow)|
+| [AbdeenM](https://github.com/AbdeenM)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)|
 
 ---
 
