@@ -45,25 +45,25 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Clashsoft/nestx](https://github.com/Clashsoft/nestx) (1 day ago) - Stuff that is not in NestJS but should be
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/vscode-vnc-plugin](https://github.com/sekassel-research/vscode-vnc-plugin) (2 weeks ago) - 
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 weeks ago) - Extensions for ng-bootstrap
-- [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (2 weeks ago) - 
 
 #### 🌱 My latest projects
 
+- [Clashsoft/nestx](https://github.com/Clashsoft/nestx) - Stuff that is not in NestJS but should be
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) - Extensions for ng-bootstrap
 - [Clashsoft/story-service](https://github.com/Clashsoft/story-service) - Backend service for the story tracker on app.clashsoft.de.
 - [Clashsoft/led-server](https://github.com/Clashsoft/led-server) - HTTP server that controls my LED strip
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) - An Angular wrapper for bootstrap-darkmode.
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.1.0-rc.0](https://github.com/angular/angular/releases/tag/15.1.0-rc.0), 2 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([15.1.0-rc.0](https://github.com/angular/angular/releases/tag/15.1.0-rc.0), 3 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 4 weeks ago) - Decorator-based property validation for classes.
+- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 1 month ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 6 months ago) - fulibWorkflows provides an analyzer for event modelling
 
