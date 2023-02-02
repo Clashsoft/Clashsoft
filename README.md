@@ -45,11 +45,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (5 days ago) - 
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (6 days ago) - 
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (2 weeks ago) - Gradle Plugin for fulib and fulibScenarios
 - [Clashsoft/nestx](https://github.com/Clashsoft/nestx) (3 weeks ago) - Stuff that is not in NestJS but should be
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (3 weeks ago) - Vorlage für Dokumentationen und Abschlussarbeiten
-- [fujaba/fulibYaml](https://github.com/fujaba/fulibYaml) (3 weeks ago) - Yaml serialization for fulib object models. Used for storage and communication.
 
 #### 🌱 My latest projects
 
@@ -69,9 +69,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/AbdeenM.png?size=128" alt="AbdeenM Profile Avatar" width="32">](https://github.com/AbdeenM)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)|
+| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)|
 |:---:|:---:|:---:|:---:|:---:|
-| [AbdeenM](https://github.com/AbdeenM)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)|
+| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)|
 
 ---
 
