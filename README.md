@@ -45,7 +45,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (3 days ago) - 
+- [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (4 days ago) - 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (1 week ago) - 
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (3 weeks ago) - Gradle Plugin for fulib and fulibScenarios
@@ -61,9 +61,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.1.3](https://github.com/angular/angular/releases/tag/15.1.3), 4 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([15.1.3](https://github.com/angular/angular/releases/tag/15.1.3), 5 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 1 month ago) - Decorator-based property validation for classes.
+- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 2 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 7 months ago) - fulibWorkflows provides an analyzer for event modelling
 
