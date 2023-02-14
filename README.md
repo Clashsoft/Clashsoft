@@ -61,7 +61,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [angular/angular](https://github.com/angular/angular) ([15.2.0-next.4](https://github.com/angular/angular/releases/tag/15.2.0-next.4), 5 days ago) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) ([15.2.0-next.4](https://github.com/angular/angular/releases/tag/15.2.0-next.4), 6 days ago) - The modern web developer’s platform
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 2 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
@@ -69,9 +69,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)|
+| [<img src="https://github.com/u1gzkiwxqc-ltfkpjxnab.png?size=128" alt="u1gzkiwxqc-ltfkpjxnab Profile Avatar" width="32">](https://github.com/u1gzkiwxqc-ltfkpjxnab)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)|
 |:---:|:---:|:---:|:---:|:---:|
-| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)|
+| [u1gzkiwxqc-ltfkpjxnab](https://github.com/u1gzkiwxqc-ltfkpjxnab)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)|
 
 ---
 
