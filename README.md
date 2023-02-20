@@ -46,7 +46,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (2 weeks ago) - 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (3 weeks ago) - 
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for fulib and fulibScenarios
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (1 month ago) - Vorlage für Dokumentationen und Abschlussarbeiten
@@ -65,7 +65,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 2 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 8 months ago) - fulibWorkflows provides an analyzer for event modelling
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 10 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 11 months ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 
 #### 🚶 Check out some of my recent followers
 
