@@ -45,11 +45,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (1 month ago) - 
 - [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (1 month ago) - 
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for fulib and fulibScenarios
-- [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (1 month ago) - Vorlage für Dokumentationen und Abschlussarbeiten
+- [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (2 months ago) - Vorlage für Dokumentationen und Abschlussarbeiten
 
 #### 🌱 My latest projects
 
