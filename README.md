@@ -45,11 +45,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (1 day ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
 - [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (1 month ago) - 
 - [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (1 month ago) - 
 - [fujaba/fulibGradle](https://github.com/fujaba/fulibGradle) (1 month ago) - Gradle Plugin for fulib and fulibScenarios
-- [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (2 months ago) - Vorlage für Dokumentationen und Abschlussarbeiten
 
 #### 🌱 My latest projects
 
@@ -69,9 +69,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)| [<img src="https://github.com/b1ck.png?size=128" alt="b1ck Profile Avatar" width="32">](https://github.com/b1ck)|
+| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)|
 |:---:|:---:|:---:|:---:|:---:|
-| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)| [b1ck](https://github.com/b1ck)|
+| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)|
 
 ---
 
