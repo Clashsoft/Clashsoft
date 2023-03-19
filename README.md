@@ -46,8 +46,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [Clashsoft/nestx](https://github.com/Clashsoft/nestx) (1 day ago) - Stuff that is not in NestJS but should be
-- [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (4 days ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (5 days ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (1 month ago) - 
 - [Melle2020/heraklit-engine](https://github.com/Melle2020/heraklit-engine) (1 month ago) - 
 
