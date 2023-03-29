@@ -61,11 +61,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 2 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 3 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 4 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 9 months ago) - fulibWorkflows provides an analyzer for event modelling
-- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) ([v1.0.0](https://github.com/Clashsoft/Master-Thesis/releases/tag/v1.0.0), 1 year ago) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.7.1](https://github.com/fujaba/fulibFeedback/releases/tag/v0.7.1), 1 year ago) - IDE plugins for grading fulib.org Assignments.
 
 #### 🚶 Check out some of my recent followers
 
