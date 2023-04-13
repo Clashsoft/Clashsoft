@@ -45,15 +45,15 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (5 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [Clashsoft/nestx](https://github.com/Clashsoft/nestx) (1 week ago) - Stuff that is not in NestJS but should be
-- [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (4 weeks ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 day ago) - Extensions for ng-bootstrap
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (6 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (1 month ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
-- [sekassel/pmws2223-files](https://github.com/sekassel/pmws2223-files) (2 months ago) - 
 
 #### 🌱 My latest projects
 
-- [Clashsoft/nestx](https://github.com/Clashsoft/nestx) - Stuff that is not in NestJS but should be
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 - [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) - Extensions for ng-bootstrap
 - [Clashsoft/story-service](https://github.com/Clashsoft/story-service) - Backend service for the story tracker on app.clashsoft.de.
