@@ -46,8 +46,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (1 day ago) - Extensions for ng-bootstrap
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (6 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 days ago) - Extensions for ng-bootstrap
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (1 month ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 
