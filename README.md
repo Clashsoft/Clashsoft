@@ -46,10 +46,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (2 days ago) - Extensions for ng-bootstrap
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) (1 day ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-ext](https://github.com/Clashsoft/ng-bootstrap-ext) (3 days ago) - Extensions for ng-bootstrap
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Clashsoft-Mods/Player-Inventory-API](https://github.com/Clashsoft-Mods/Player-Inventory-API) (1 month ago) - The Player Inventory API for Minecraft is a powerful API that lets you modify the survival and creative inventory in many ways.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 
 #### 🌱 My latest projects
 
@@ -61,11 +61,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 1 day ago) - An Angular wrapper for bootstrap-darkmode.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.13.3](https://github.com/fujaba/fulib.org/releases/tag/v1.13.3), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 4 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 4 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) ([v0.5.1](https://github.com/fujaba/fulibWorkflows/releases/tag/v0.5.1), 9 months ago) - fulibWorkflows provides an analyzer for event modelling
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.7.1](https://github.com/fujaba/fulibFeedback/releases/tag/v0.7.1), 1 year ago) - IDE plugins for grading fulib.org Assignments.
 
 #### 🚶 Check out some of my recent followers
 
