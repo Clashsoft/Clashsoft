@@ -6,6 +6,7 @@ Not all of them are in my personal profile, so check out some of the awesome org
 
 - [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
 - [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
+- [SE Kassel Research](https://github.com/sekassel-research) - Projects at the Software Engineering Research Group Kassel.
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
 - [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
@@ -14,8 +15,13 @@ Not all of them are in my personal profile, so check out some of the awesome org
 Want to see my work without reading a bunch of code?
 Here are some of my showoff projects, available to all on the web:
 
-- [fulib.org](https://www.fulib.org) - A web app for a textual example language, with a web IDE and homework grading etc.
+- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
+- [coffee.uniks.de](https://coffee.uniks.de/) - Coffee Counter and amenity finance tracker for the SE office.
+- [stellarismeta24.com](https://stellarismeta24.com) [Coming Soon] - Create, share, find and rate Stellaris empires for your next playthrough.
+- [apollusia.uniks.de](https://apollusia.uniks.de) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
+
+Most of these are made with Angular (frontend), NestJS (backend), MongoDB (database), Nx (workspace/build) and my own [Mean-Stream](https://github.com/Clashsoft/Meanstream) library.
 
 #### 📄 Papers
 
@@ -26,6 +32,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) (2020) - A seminar paper about the OpenJDK project Valhalla.
 - [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2020) - "Natural Language Pattern Matching for Natural Language Object Scenarios".
 - [Master Thesis](https://github.com/Clashsoft/Master-Thesis) (2022) - "Tool-assisted Feedback for Programming Assignments".
+- More on [Google Scholar](https://scholar.google.com/citations?user=8mKnH8wAAAAJ&hl=en&oi=ao) (2019--now)
 
 ---
 
