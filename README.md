@@ -52,10 +52,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (6 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
-- [sekassel-research/vscode-collab-plugin](https://github.com/sekassel-research/vscode-collab-plugin) (3 weeks ago) - Collaborative editing plugin for VSCode/code-server/fulib.org Projects
-- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (4 weeks ago) - A web app for creating and sharing Stellaris empires.
+- [sekassel-research/vscode-collab-plugin](https://github.com/sekassel-research/vscode-collab-plugin) (4 weeks ago) - Collaborative editing plugin for VSCode/code-server/fulib.org Projects
+- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 month ago) - A web app for creating and sharing Stellaris empires.
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (1 month ago) - Vorlage für Dokumentationen und Abschlussarbeiten
 
 #### 🌱 My latest projects
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.14.0](https://github.com/fujaba/fulib.org/releases/tag/v1.14.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.14.0](https://github.com/fujaba/fulib.org/releases/tag/v1.14.0), 2 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 2 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 6 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 7 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
