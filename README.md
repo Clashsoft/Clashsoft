@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 weeks ago) - Calendar tool for coordinating meetings
 - [sekassel-research/vscode-collab-plugin](https://github.com/sekassel-research/vscode-collab-plugin) (1 month ago) - Collaborative editing plugin for VSCode/code-server/fulib.org Projects
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 month ago) - A web app for creating and sharing Stellaris empires.
-- [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) (2 months ago) - Vorlage für Dokumentationen und Abschlussarbeiten
 
 #### 🌱 My latest projects
 
