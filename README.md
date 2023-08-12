@@ -52,9 +52,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (4 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 month ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [sekassel-research/vscode-collab-plugin](https://github.com/sekassel-research/vscode-collab-plugin) (2 months ago) - Collaborative editing plugin for VSCode/code-server/fulib.org Projects
 
@@ -69,16 +69,16 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 🗜 Latest releases I've contributed to
 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.14.0](https://github.com/fujaba/fulib.org/releases/tag/v1.14.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 3 months ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 4 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 8 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 8 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([v0.7.1](https://github.com/fujaba/fulibFeedback/releases/tag/v0.7.1), 2 years ago) - IDE plugins for grading fulib.org Assignments.
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)| [<img src="https://github.com/m0this.png?size=128" alt="m0this Profile Avatar" width="32">](https://github.com/m0this)|
+| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)|
 |:---:|:---:|:---:|:---:|:---:|
-| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)| [m0this](https://github.com/m0this)|
+| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)|
 
 ---
 
