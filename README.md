@@ -52,9 +52,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (2 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (3 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/stp-23-server](https://github.com/sekassel-research/stp-23-server) (1 week ago) - 
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 month ago) - IDE plugins for grading fulib.org Assignments.
 
