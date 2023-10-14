@@ -52,8 +52,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) (3 weeks ago) - 
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [sekassel-research/stp-23-server](https://github.com/sekassel-research/stp-23-server) (1 month ago) - 
@@ -76,9 +76,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)| [<img src="https://github.com/vedatfindik.png?size=128" alt="vedatfindik Profile Avatar" width="32">](https://github.com/vedatfindik)|
+| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)|
 |:---:|:---:|:---:|:---:|:---:|
-| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)| [vedatfindik](https://github.com/vedatfindik)|
+| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)|
 
 ---
 
