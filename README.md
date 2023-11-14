@@ -52,8 +52,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - IDE plugins for grading fulib.org Assignments.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) (1 month ago) - 
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.16.0](https://github.com/fujaba/fulib.org/releases/tag/v1.16.0), 1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.16.0](https://github.com/fujaba/fulib.org/releases/tag/v1.16.0), 2 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 7 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.0](https://github.com/typestack/class-validator/releases/tag/v0.14.0), 11 months ago) - Decorator-based property validation for classes.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 11 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
