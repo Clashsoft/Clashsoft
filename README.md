@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 weeks ago) - IDE plugins for grading fulib.org Assignments.
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) (1 month ago) - 
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (4 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) (2 months ago) - 
 
 #### 🌱 My latest projects
 
