@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) (1 day ago) - A resource management game about a sole train on a frozen Earth.
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (5 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (5 days ago) - IDE plugins for grading fulib.org Assignments.
+- [Dyvil/Dyvil-Language-Reference](https://github.com/Dyvil/Dyvil-Language-Reference) (1 day ago) - The Dyvil Language Reference - The full programming language guide
+- [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) (2 days ago) - A resource management game about a sole train on a frozen Earth.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (6 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (6 days ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 
 #### 🌱 My latest projects
 
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 5 days ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 6 days ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 8 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 1 year ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
