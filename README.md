@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (6 days ago) - The Dyvil programming language
+- [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (1 week ago) - The Dyvil programming language
 - [Dyvil/Dyvil-Language-Reference](https://github.com/Dyvil/Dyvil-Language-Reference) (1 week ago) - The Dyvil Language Reference - The full programming language guide
 - [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) (2 weeks ago) - A resource management game about a sole train on a frozen Earth.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (2 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
