@@ -53,7 +53,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (1 week ago) - The Dyvil programming language
-- [Dyvil/Dyvil-Language-Reference](https://github.com/Dyvil/Dyvil-Language-Reference) (1 week ago) - The Dyvil Language Reference - The full programming language guide
+- [Dyvil/Dyvil-Language-Reference](https://github.com/Dyvil/Dyvil-Language-Reference) (2 weeks ago) - The Dyvil Language Reference - The full programming language guide
 - [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) (2 weeks ago) - A resource management game about a sole train on a frozen Earth.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - IDE plugins for grading fulib.org Assignments.
@@ -70,7 +70,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 1 week ago) - The Dyvil programming language
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 3 weeks ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 4 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 9 months ago) - An Angular wrapper for bootstrap-darkmode.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.0.0), 1 year ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
