@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (1 week ago) - The Dyvil programming language
 - [Dyvil/Dyvil-Language-Reference](https://github.com/Dyvil/Dyvil-Language-Reference) (2 weeks ago) - The Dyvil Language Reference - The full programming language guide
 - [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) (3 weeks ago) - A resource management game about a sole train on a frozen Earth.
