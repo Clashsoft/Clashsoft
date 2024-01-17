@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [typestack/class-validator](https://github.com/typestack/class-validator) (1 day ago) - Decorator-based property validation for classes.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [typestack/class-validator](https://github.com/typestack/class-validator) (2 days ago) - Decorator-based property validation for classes.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (2 weeks ago) - The Dyvil programming language
-- [Dyvil/Dyvil-Language-Reference](https://github.com/Dyvil/Dyvil-Language-Reference) (2 weeks ago) - The Dyvil Language Reference - The full programming language guide
-- [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) (3 weeks ago) - A resource management game about a sole train on a frozen Earth.
 
 #### 🌱 My latest projects
 
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.1](https://github.com/typestack/class-validator/releases/tag/v0.14.1), 4 days ago) - Decorator-based property validation for classes.
+- [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.1](https://github.com/typestack/class-validator/releases/tag/v0.14.1), 5 days ago) - Decorator-based property validation for classes.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 2 weeks ago) - The Dyvil programming language
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 4 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
@@ -76,9 +76,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)| [<img src="https://github.com/Akloib.png?size=128" alt="Akloib Profile Avatar" width="32">](https://github.com/Akloib)|
+| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)|
 |:---:|:---:|:---:|:---:|:---:|
-| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)| [Akloib](https://github.com/Akloib)|
+| [Lotfi-Arif](https://github.com/Lotfi-Arif)| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)|
 
 ---
 
