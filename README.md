@@ -52,8 +52,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (1 day ago) - Integrate Angular frontends into your Gradle build.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (2 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (2 days ago) - Integrate Angular frontends into your Gradle build.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [typestack/class-validator](https://github.com/typestack/class-validator) (1 week ago) - Decorator-based property validation for classes.
