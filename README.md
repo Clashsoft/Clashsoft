@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (6 days ago) - Integrate Angular frontends into your Gradle build.
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (6 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (1 week ago) - Integrate Angular frontends into your Gradle build.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 
 #### 🌱 My latest projects
 
