@@ -52,19 +52,19 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (today) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (today) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (2 weeks ago) - Integrate Angular frontends into your Gradle build.
 
 #### 🌱 My latest projects
 
 - [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) - A resource management game about a sole train on a frozen Earth.
-- [Clashsoft/projects](https://github.com/Clashsoft/projects) - 
 - [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) - 
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) - A web app for creating and sharing Stellaris empires.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 
 #### 🗜 Latest releases I've contributed to
 
