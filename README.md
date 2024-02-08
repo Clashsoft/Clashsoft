@@ -53,9 +53,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (2 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
 - [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (2 weeks ago) - Integrate Angular frontends into your Gradle build.
 
 #### 🌱 My latest projects
@@ -72,7 +72,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 1 month ago) - The Dyvil programming language
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 9 months ago) - An Angular wrapper for bootstrap-darkmode.
+- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 10 months ago) - An Angular wrapper for bootstrap-darkmode.
 
 #### 🚶 Check out some of my recent followers
 
