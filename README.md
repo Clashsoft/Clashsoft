@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (2 days ago) - Integrate Angular frontends into your Gradle build.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (4 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (4 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (3 days ago) - Integrate Angular frontends into your Gradle build.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
+- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (5 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (5 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 
 #### 🌱 My latest projects
 
