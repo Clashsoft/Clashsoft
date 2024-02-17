@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (6 days ago) - Integrate Angular frontends into your Gradle build.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (1 week ago) - Integrate Angular frontends into your Gradle build.
 - [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (1 week ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
 
 #### 🌱 My latest projects
 
@@ -70,7 +70,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.1](https://github.com/typestack/class-validator/releases/tag/v0.14.1), 1 month ago) - Decorator-based property validation for classes.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 1 month ago) - The Dyvil programming language
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 1 month ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 2 months ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 2 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 10 months ago) - An Angular wrapper for bootstrap-darkmode.
 
