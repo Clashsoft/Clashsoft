@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [fujaba/fulib](https://github.com/fujaba/fulib) (1 day ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [Clashsoft/meanstream](https://github.com/Clashsoft/meanstream) (2 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
-- [Clashsoft/Angular-Gradle](https://github.com/Clashsoft/Angular-Gradle) (1 week ago) - Integrate Angular frontends into your Gradle build.
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 day ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 day ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
 #### 🌱 My latest projects
 
@@ -68,11 +68,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 1 day ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.5.2](https://github.com/fujaba/fulibTools/releases/tag/v1.5.2), 1 day ago) - Additional features for fulib that require some large dependencies.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.1](https://github.com/typestack/class-validator/releases/tag/v0.14.1), 1 month ago) - Decorator-based property validation for classes.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 1 month ago) - The Dyvil programming language
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.0.4](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.0.4), 2 months ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.17.0](https://github.com/fujaba/fulib.org/releases/tag/v1.17.0), 2 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Clashsoft/ng-bootstrap-darkmode](https://github.com/Clashsoft/ng-bootstrap-darkmode) ([v5.0.0](https://github.com/Clashsoft/ng-bootstrap-darkmode/releases/tag/v5.0.0), 10 months ago) - An Angular wrapper for bootstrap-darkmode.
 
 #### 🚶 Check out some of my recent followers
 
