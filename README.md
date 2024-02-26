@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib](https://github.com/fujaba/fulib) (2 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (3 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (3 days ago) - Additional features for fulib that require some large dependencies.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [fujaba/fulib](https://github.com/fujaba/fulib) (3 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (4 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (4 days ago) - Additional features for fulib that require some large dependencies.
 
 #### 🌱 My latest projects
 
@@ -68,9 +68,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 3 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 3 days ago) - Additional features for fulib that require some large dependencies.
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 4 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 4 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 4 days ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 5 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.1](https://github.com/typestack/class-validator/releases/tag/v0.14.1), 1 month ago) - Decorator-based property validation for classes.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 1 month ago) - The Dyvil programming language
 
