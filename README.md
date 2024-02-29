@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (2 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib](https://github.com/fujaba/fulib) (5 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
+- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (3 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
+- [fujaba/fulib](https://github.com/fujaba/fulib) (6 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
 #### 🌱 My latest projects
 
@@ -68,8 +68,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 6 days ago) - fulibScenarios provides an analyzer for textual example scenarios. 
-- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 6 days ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 1 week ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [typestack/class-validator](https://github.com/typestack/class-validator) ([v0.14.1](https://github.com/typestack/class-validator/releases/tag/v0.14.1), 1 month ago) - Decorator-based property validation for classes.
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) ([v0.48.1](https://github.com/Dyvil/Dyvil/releases/tag/v0.48.1), 2 months ago) - The Dyvil programming language
