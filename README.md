@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
-- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (3 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib](https://github.com/fujaba/fulib) (6 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (today) - Calendar tool for coordinating meetings
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [Clashsoft/bootstrap-darkmode](https://github.com/Clashsoft/bootstrap-darkmode) (4 days ago) - Stylesheet and scripts for implementing dark mode with Bootstrap 4
+- [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
 #### 🌱 My latest projects
 
