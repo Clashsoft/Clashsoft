@@ -53,8 +53,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (5 days ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (6 days ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [JBR-HAX/jb-rsch-4744-Clashsoft](https://github.com/JBR-HAX/jb-rsch-4744-Clashsoft) (1 week ago) - jb-rsch-4744-Clashsoft created by GitHub Classroom
 
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 5 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 1 month ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 1 month ago) - Additional features for fulib that require some large dependencies.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 1 month ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
