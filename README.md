@@ -52,10 +52,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (4 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (5 days ago) - A collection of web apps for various purposes, mostly related to games.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (6 days ago) - A collection of web apps for various purposes, mostly related to games.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🌱 My latest projects
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.2.0](https://github.com/fujaba/fulibFx/releases/tag/v0.2.0), 4 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.2.0](https://github.com/fujaba/fulibFx/releases/tag/v0.2.0), 5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 1 month ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 1 month ago) - Additional features for fulib that require some large dependencies.
