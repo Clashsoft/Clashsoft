@@ -53,22 +53,22 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 👷‍ Check out what I'm currently working on
 
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 day ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (3 weeks ago) - A collection of web apps for various purposes, mostly related to games.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🌱 My latest projects
 
 - [Clashsoft/Projects](https://github.com/Clashsoft/Projects) - Student Projects
 - [Clashsoft/frost-train-game](https://github.com/Clashsoft/frost-train-game) - A resource management game about a sole train on a frozen Earth.
-- [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) - 
+- [Clashsoft/doctor-thesis](https://github.com/Clashsoft/doctor-thesis) - LaTeX code for my PhD thesis
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) - A web app for creating and sharing Stellaris empires.
 - [Clashsoft/Master-Thesis](https://github.com/Clashsoft/Master-Thesis) - My master thesis, titled &#34;Tool-assisted Grading of Programming Assignments&#34;, written in Winter 2021-2022 at the University of Kassel
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.2.0](https://github.com/fujaba/fulibFx/releases/tag/v0.2.0), 3 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.3.0](https://github.com/fujaba/fulibFx/releases/tag/v0.3.0), 1 day ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 1 month ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 1 month ago) - Additional features for fulib that require some large dependencies.
