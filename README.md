@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [sekassel/stp-24-server-tracker](https://github.com/sekassel/stp-24-server-tracker) (1 day ago) - Issue Tracker and Feature Requests for the STP 2024 Server.
+- [sekassel/stp-24-server-tracker](https://github.com/sekassel/stp-24-server-tracker) (2 days ago) - Issue Tracker and Feature Requests for the STP 2024 Server.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 week ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
@@ -76,9 +76,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)| [<img src="https://github.com/KlaraGtknst.png?size=128" alt="KlaraGtknst Profile Avatar" width="32">](https://github.com/KlaraGtknst)|
+| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)|
 |:---:|:---:|:---:|:---:|:---:|
-| [Lotfi-Arif](https://github.com/Lotfi-Arif)| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)| [KlaraGtknst](https://github.com/KlaraGtknst)|
+| [Baldi-OG](https://github.com/Baldi-OG)| [Lotfi-Arif](https://github.com/Lotfi-Arif)| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)|
 
 ---
 
