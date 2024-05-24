@@ -52,10 +52,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 day ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [sekassel/stp-24-demo](https://github.com/sekassel/stp-24-demo) (1 day ago) - 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (2 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [sekassel/stp-24-demo](https://github.com/sekassel/stp-24-demo) (2 days ago) - 
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🌱 My latest projects
