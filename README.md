@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 week ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [sekassel/stp-24-demo](https://github.com/sekassel/stp-24-demo) (1 week ago) - 
@@ -76,9 +76,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)| [<img src="https://github.com/Maiswaffeln.png?size=128" alt="Maiswaffeln Profile Avatar" width="32">](https://github.com/Maiswaffeln)|
+| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)| [<img src="https://github.com/schryxcz.png?size=128" alt="schryxcz Profile Avatar" width="32">](https://github.com/schryxcz)|
 |:---:|:---:|:---:|:---:|:---:|
-| [Baldi-OG](https://github.com/Baldi-OG)| [Lotfi-Arif](https://github.com/Lotfi-Arif)| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)| [Maiswaffeln](https://github.com/Maiswaffeln)|
+| [nesssmiley](https://github.com/nesssmiley)| [Baldi-OG](https://github.com/Baldi-OG)| [Lotfi-Arif](https://github.com/Lotfi-Arif)| [barnettwilliam](https://github.com/barnettwilliam)| [schryxcz](https://github.com/schryxcz)|
 
 ---
 
