@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (6 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
-- [sekassel/stp-24-demo](https://github.com/sekassel/stp-24-demo) (4 weeks ago) - 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 day ago) - A web app for creating and sharing Stellaris empires.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 week ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 weeks ago) - Calendar tool for coordinating meetings
 
 #### 🌱 My latest projects
 
@@ -68,11 +68,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.6.0](https://github.com/fujaba/fulibFx/releases/tag/v0.6.0), 6 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.6.0](https://github.com/fujaba/fulibFx/releases/tag/v0.6.0), 1 week ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 3 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 3 months ago) - Additional features for fulib that require some large dependencies.
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.6.2](https://github.com/fujaba/fulib/releases/tag/v1.6.2), 4 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
 #### 🚶 Check out some of my recent followers
 
