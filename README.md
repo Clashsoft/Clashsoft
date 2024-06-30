@@ -52,9 +52,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 week ago) - A web app for creating and sharing Stellaris empires.
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (2 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 
