@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) (6 days ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) (1 week ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 week ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (2 weeks ago) - A web app for creating and sharing Stellaris empires.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (3 weeks ago) - A web app for creating and sharing Stellaris empires.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (3 weeks ago) - A collection of web apps for various purposes, mostly related to games.
 
 #### 🌱 My latest projects
 
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.0.6](https://github.com/ds-ukassel/fit-public/releases/tag/v3.0.6), 6 days ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.0.6](https://github.com/ds-ukassel/fit-public/releases/tag/v3.0.6), 1 week ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.6.0](https://github.com/fujaba/fulibFx/releases/tag/v0.6.0), 3 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 4 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
