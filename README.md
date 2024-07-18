@@ -52,10 +52,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 day ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) (2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (2 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (4 weeks ago) - A web app for creating and sharing Stellaris empires.
 
 #### 🌱 My latest projects
