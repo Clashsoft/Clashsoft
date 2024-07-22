@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (4 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) (2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
-- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 month ago) - A web app for creating and sharing Stellaris empires.
 
 #### 🌱 My latest projects
 
