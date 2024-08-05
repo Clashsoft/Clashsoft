@@ -52,9 +52,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (2 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (3 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (6 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) (1 month ago) - Public Issue Tracker and Releases for FIT Newsletter
 
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 6 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.2.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.2.0), 1 week ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 4 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 5 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
