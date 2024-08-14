@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (2 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 weeks ago) - Conserve Web App
@@ -69,7 +69,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 🗜 Latest releases I've contributed to
 
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 2 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.2.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.2.0), 2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.2.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.2.0), 3 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 4 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 5 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 5 months ago) - Additional features for fulib that require some large dependencies.
