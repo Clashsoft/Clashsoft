@@ -52,11 +52,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [sekassel-research/stp-24-server](https://github.com/sekassel-research/stp-24-server) (1 day ago) - Server for STP 2024
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (6 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (2 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (3 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🌱 My latest projects
 
