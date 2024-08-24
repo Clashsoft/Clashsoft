@@ -52,8 +52,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [sekassel-research/stp-24-server](https://github.com/sekassel-research/stp-24-server) (2 days ago) - Server for STP 2024
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
+- [sekassel-research/stp-24-server](https://github.com/sekassel-research/stp-24-server) (3 days ago) - Server for STP 2024
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 week ago) - Conserve Web App
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.3.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.3.0), 2 days ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.3.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.3.0), 3 days ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 3 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 5 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 6 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
