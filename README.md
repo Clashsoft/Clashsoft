@@ -54,7 +54,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [sekassel-research/stp-24-server](https://github.com/sekassel-research/stp-24-server) (4 weeks ago) - Server for STP 2024
+- [sekassel-research/stp-24-server](https://github.com/sekassel-research/stp-24-server) (1 month ago) - Server for STP 2024
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 month ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 
