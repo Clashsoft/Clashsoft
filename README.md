@@ -76,9 +76,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)| [<img src="https://github.com/barnettwilliam.png?size=128" alt="barnettwilliam Profile Avatar" width="32">](https://github.com/barnettwilliam)|
+| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)|
 |:---:|:---:|:---:|:---:|:---:|
-| [phase](https://github.com/phase)| [nesssmiley](https://github.com/nesssmiley)| [Baldi-OG](https://github.com/Baldi-OG)| [Lotfi-Arif](https://github.com/Lotfi-Arif)| [barnettwilliam](https://github.com/barnettwilliam)|
+| [simonloeser](https://github.com/simonloeser)| [phase](https://github.com/phase)| [nesssmiley](https://github.com/nesssmiley)| [Baldi-OG](https://github.com/Baldi-OG)| [Lotfi-Arif](https://github.com/Lotfi-Arif)|
 
 ---
 
