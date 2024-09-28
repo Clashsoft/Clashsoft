@@ -52,7 +52,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (today) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 day ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 weeks ago) - Conserve Web App
 - [sekassel-research/stp-24-server](https://github.com/sekassel-research/stp-24-server) (1 month ago) - Server for STP 2024
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
@@ -69,7 +69,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 #### 🗜 Latest releases I've contributed to
 
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.4.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.4.0), 3 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 1 month ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 2 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 6 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 7 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) ([v1.6.0](https://github.com/fujaba/fulibTools/releases/tag/v1.6.0), 7 months ago) - Additional features for fulib that require some large dependencies.
