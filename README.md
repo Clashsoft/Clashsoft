@@ -52,8 +52,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (6 days ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
@@ -68,7 +68,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 6 days ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 1 week ago) - IDE plugins for grading fulib.org Assignments.
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.4.2](https://github.com/ds-ukassel/fit-public/releases/tag/v3.4.2), 1 week ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 2 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 7 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
