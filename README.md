@@ -56,7 +56,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 weeks ago) - Conserve Web App
 
 #### 🌱 My latest projects
 
@@ -72,13 +72,13 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.4.2](https://github.com/ds-ukassel/fit-public/releases/tag/v3.4.2), 2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 2 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 7 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 7 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 8 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)| [<img src="https://github.com/Lotfi-Arif.png?size=128" alt="Lotfi-Arif Profile Avatar" width="32">](https://github.com/Lotfi-Arif)|
+| [<img src="https://github.com/UK-RoseSchwarz.png?size=128" alt="UK-RoseSchwarz Profile Avatar" width="32">](https://github.com/UK-RoseSchwarz)| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)|
 |:---:|:---:|:---:|:---:|:---:|
-| [simonloeser](https://github.com/simonloeser)| [phase](https://github.com/phase)| [nesssmiley](https://github.com/nesssmiley)| [Baldi-OG](https://github.com/Baldi-OG)| [Lotfi-Arif](https://github.com/Lotfi-Arif)|
+| [UK-RoseSchwarz](https://github.com/UK-RoseSchwarz)| [simonloeser](https://github.com/simonloeser)| [phase](https://github.com/phase)| [nesssmiley](https://github.com/nesssmiley)| [Baldi-OG](https://github.com/Baldi-OG)|
 
 ---
 
