@@ -52,9 +52,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 month ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 month ago) - Conserve Web App
 
@@ -76,9 +76,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/UK-RoseSchwarz.png?size=128" alt="UK-RoseSchwarz Profile Avatar" width="32">](https://github.com/UK-RoseSchwarz)| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)| [<img src="https://github.com/Baldi-OG.png?size=128" alt="Baldi-OG Profile Avatar" width="32">](https://github.com/Baldi-OG)|
+| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)| [<img src="https://github.com/UK-RoseSchwarz.png?size=128" alt="UK-RoseSchwarz Profile Avatar" width="32">](https://github.com/UK-RoseSchwarz)| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)| [<img src="https://github.com/nesssmiley.png?size=128" alt="nesssmiley Profile Avatar" width="32">](https://github.com/nesssmiley)|
 |:---:|:---:|:---:|:---:|:---:|
-| [UK-RoseSchwarz](https://github.com/UK-RoseSchwarz)| [simonloeser](https://github.com/simonloeser)| [phase](https://github.com/phase)| [nesssmiley](https://github.com/nesssmiley)| [Baldi-OG](https://github.com/Baldi-OG)|
+| [deep-goyal](https://github.com/deep-goyal)| [UK-RoseSchwarz](https://github.com/UK-RoseSchwarz)| [simonloeser](https://github.com/simonloeser)| [phase](https://github.com/phase)| [nesssmiley](https://github.com/nesssmiley)|
 
 ---
 
