@@ -68,11 +68,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([26.0.6](https://github.com/keycloak/keycloak/releases/tag/26.0.6), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.7.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.7.0), 5 days ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.7.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.7.0), 6 days ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 3 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 8 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 9 months ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
 #### 🚶 Check out some of my recent followers
 
