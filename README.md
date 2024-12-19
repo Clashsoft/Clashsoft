@@ -56,7 +56,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 week ago) - 
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
-- [ds-ukassel/AdventOfCode24](https://github.com/ds-ukassel/AdventOfCode24) (2 weeks ago) - 
+- [ds-ukassel/AdventOfCode24](https://github.com/ds-ukassel/AdventOfCode24) (3 weeks ago) - 
 
 #### 🌱 My latest projects
 
