@@ -52,10 +52,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (5 days ago) - 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (6 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (6 days ago) - 
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 week ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 
 #### 🌱 My latest projects
@@ -68,8 +68,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 6 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.9.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.9.0), 2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.9.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.9.0), 3 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 3 months ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 5 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.18.0](https://github.com/fujaba/fulib.org/releases/tag/v1.18.0), 9 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
