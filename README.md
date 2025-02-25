@@ -72,7 +72,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 4 months ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 6 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 7 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🚶 Check out some of my recent followers
 
