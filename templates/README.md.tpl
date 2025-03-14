@@ -5,8 +5,9 @@ Feel free to take a look around my profile, during my studies and as a hobby I c
 Not all of them are in my personal profile, so check out some of the awesome organizations that I worked in:
 
 - [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
+- [Distributed Systems Uni Kassel](https://github.com/ds-ukassel) - Projects at the Distributed Systems group in Kassel.
+- [Software Engineering Uni Kassel](https://github.com/sekassel-research) - Projects at the Software Engineering Research group in Kassel.
 - [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
-- [SE Kassel Research](https://github.com/sekassel-research) - Projects at the Software Engineering Research Group Kassel.
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
 - [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
@@ -15,11 +16,11 @@ Not all of them are in my personal profile, so check out some of the awesome org
 Want to see my work without reading a bunch of code?
 Here are some of my showoff projects, available to all on the web:
 
-- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
-- [coffee.uniks.de](https://coffee.uniks.de/) - Coffee Counter and amenity finance tracker for the SE office.
+- [coffee.uni-kassel.dev](https://coffee.uni-kassel.dev/) - Coffee Counter and amenity finance tracker for the VS/SE offices.
 - [stellarismeta24.com](https://stellarismeta24.com) [Coming Soon] - Create, share, find and rate Stellaris empires for your next playthrough.
-- [apollusia.uniks.de](https://apollusia.uniks.de) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
+- [apollusia.com](https://apollusia.com) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
+- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
 
 Most of these are made with Angular (frontend), NestJS (backend), MongoDB (database), Nx (workspace/build) and my own [Mean-Stream](https://github.com/Clashsoft/Meanstream) library.
 
