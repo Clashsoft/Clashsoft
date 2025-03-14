@@ -5,8 +5,9 @@ Feel free to take a look around my profile, during my studies and as a hobby I c
 Not all of them are in my personal profile, so check out some of the awesome organizations that I worked in:
 
 - [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
+- [Distributed Systems Uni Kassel](https://github.com/ds-ukassel) - Projects at the Distributed Systems group in Kassel.
+- [Software Engineering Uni Kassel](https://github.com/sekassel-research) - Projects at the Software Engineering Research group in Kassel.
 - [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
-- [SE Kassel Research](https://github.com/sekassel-research) - Projects at the Software Engineering Research Group Kassel.
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
 - [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
@@ -15,11 +16,11 @@ Not all of them are in my personal profile, so check out some of the awesome org
 Want to see my work without reading a bunch of code?
 Here are some of my showoff projects, available to all on the web:
 
-- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
-- [coffee.uniks.de](https://coffee.uniks.de/) - Coffee Counter and amenity finance tracker for the SE office.
+- [coffee.uni-kassel.dev](https://coffee.uni-kassel.dev/) - Coffee Counter and amenity finance tracker for the VS/SE offices.
 - [stellarismeta24.com](https://stellarismeta24.com) [Coming Soon] - Create, share, find and rate Stellaris empires for your next playthrough.
-- [apollusia.uniks.de](https://apollusia.uniks.de) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
+- [apollusia.com](https://apollusia.com) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
+- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
 
 Most of these are made with Angular (frontend), NestJS (backend), MongoDB (database), Nx (workspace/build) and my own [Mean-Stream](https://github.com/Clashsoft/Meanstream) library.
 
@@ -68,11 +69,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([26.1.4](https://github.com/keycloak/keycloak/releases/tag/26.1.4), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.12.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.12.0), 1 week ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 5 months ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 7 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🚶 Check out some of my recent followers
 
