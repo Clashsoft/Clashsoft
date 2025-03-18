@@ -53,7 +53,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 week ago) - Conserve Web App
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Clashsoft/story-service](https://github.com/Clashsoft/story-service) (1 month ago) - Backend service for the story tracker on app.clashsoft.de.
@@ -69,7 +69,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.12.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.12.0), 2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.13.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.13.0), 1 day ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.1.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.1.0), 5 months ago) - IDE plugins for grading fulib.org Assignments.
