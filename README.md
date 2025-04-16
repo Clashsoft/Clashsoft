@@ -53,9 +53,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib](https://github.com/fujaba/fulib) (6 days ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (6 days ago) - IDE plugins for grading fulib.org Assignments.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
+- [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - IDE plugins for grading fulib.org Assignments.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 weeks ago) - Conserve Web App
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
@@ -69,7 +69,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.0), 6 days ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.0), 1 week ago) - IDE plugins for grading fulib.org Assignments.
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.14.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.14.0), 2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 2 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
