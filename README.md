@@ -53,11 +53,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (3 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 day ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (3 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (4 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
-- [fujaba/fulib](https://github.com/fujaba/fulib) (3 weeks ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 
 #### 🌱 My latest projects
 
@@ -69,11 +69,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([26.2.2](https://github.com/keycloak/keycloak/releases/tag/26.2.2), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.15.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.15.0), 2 weeks ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.0), 3 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.7.0](https://github.com/fujaba/fulibFx/releases/tag/v0.7.0), 9 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🚶 Check out some of my recent followers
 
