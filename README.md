@@ -53,11 +53,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (6 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [Clashsoft-Mods/TFC-Claymore](https://github.com/Clashsoft-Mods/TFC-Claymore) (1 week ago) - Better clay sculpting for TFC
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🌱 My latest projects
 
@@ -69,11 +69,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([26.2.4](https://github.com/keycloak/keycloak/releases/tag/26.2.4), 2 days ago) - Open Source Identity and Access Management For Modern Applications and Services
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.16.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.16.0), 3 days ago) - Public Issue Tracker and Releases for FIT Newsletter
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 5 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.16.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.16.0), 4 days ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 6 days ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.0), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v3.3.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v3.3.0), 4 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 🚶 Check out some of my recent followers
 
