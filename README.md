@@ -53,7 +53,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (5 days ago) - 
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (6 days ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (2 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [Clashsoft-Mods/TFC-Claymore](https://github.com/Clashsoft-Mods/TFC-Claymore) (3 weeks ago) - Better clay sculpting for TFC
@@ -69,7 +69,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.17.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.17.0), 3 days ago) - Public Issue Tracker and Releases for FIT Newsletter
+- [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.17.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.17.0), 4 days ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 2 weeks ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.0), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 4 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
