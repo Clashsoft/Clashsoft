@@ -53,11 +53,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (3 days ago) - 
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (3 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (4 days ago) - 
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 week ago) - Conserve Web App
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) (1 month ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🌱 My latest projects
 
