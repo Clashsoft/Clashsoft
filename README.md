@@ -53,11 +53,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 day ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (3 days ago) - A collection of web apps for various purposes, mostly related to games.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (5 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 days ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 days ago) - IDE plugins for grading fulib.org Assignments.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (4 days ago) - A collection of web apps for various purposes, mostly related to games.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (6 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 
 #### 🌱 My latest projects
 
@@ -69,7 +69,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.0), 1 day ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.0), 2 days ago) - IDE plugins for grading fulib.org Assignments.
 - [ds-ukassel/fit-public](https://github.com/ds-ukassel/fit-public) ([v3.18.0](https://github.com/ds-ukassel/fit-public/releases/tag/v3.18.0), 1 week ago) - Public Issue Tracker and Releases for FIT Newsletter
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 1 month ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.19.0](https://github.com/fujaba/fulib.org/releases/tag/v1.19.0), 4 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
