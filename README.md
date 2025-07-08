@@ -53,7 +53,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) (1 week ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 - [sekassel-archive/stp-23-server](https://github.com/sekassel-archive/stp-23-server) (2 weeks ago) - 
@@ -77,9 +77,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)| [<img src="https://github.com/UK-RoseSchwarz.png?size=128" alt="UK-RoseSchwarz Profile Avatar" width="32">](https://github.com/UK-RoseSchwarz)| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)| [<img src="https://github.com/phase.png?size=128" alt="phase Profile Avatar" width="32">](https://github.com/phase)|
+| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)| [<img src="https://github.com/UK-RoseSchwarz.png?size=128" alt="UK-RoseSchwarz Profile Avatar" width="32">](https://github.com/UK-RoseSchwarz)| [<img src="https://github.com/simonloeser.png?size=128" alt="simonloeser Profile Avatar" width="32">](https://github.com/simonloeser)|
 |:---:|:---:|:---:|:---:|:---:|
-| [derLumu](https://github.com/derLumu)| [deep-goyal](https://github.com/deep-goyal)| [UK-RoseSchwarz](https://github.com/UK-RoseSchwarz)| [simonloeser](https://github.com/simonloeser)| [phase](https://github.com/phase)|
+| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)| [deep-goyal](https://github.com/deep-goyal)| [UK-RoseSchwarz](https://github.com/UK-RoseSchwarz)| [simonloeser](https://github.com/simonloeser)|
 
 ---
 
