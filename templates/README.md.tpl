@@ -4,10 +4,10 @@ Hi there, I'm Adrian and currently a PhD Student of Computer Science.
 Feel free to take a look around my profile, during my studies and as a hobby I created many different software projects.
 Not all of them are in my personal profile, so check out some of the awesome organizations that I worked in:
 
-- [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
 - [Distributed Systems Uni Kassel](https://github.com/ds-ukassel) - Projects at the Distributed Systems group in Kassel.
 - [Software Engineering Uni Kassel](https://github.com/sekassel-research) - Projects at the Software Engineering Research group in Kassel.
 - [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
+- [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
 - [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
@@ -18,9 +18,13 @@ Here are some of my showoff projects, available to all on the web:
 
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
 - [coffee.uni-kassel.dev](https://coffee.uni-kassel.dev/) - Coffee Counter and amenity finance tracker for the VS/SE offices.
-- [stellarismeta24.com](https://stellarismeta24.com) [Coming Soon] - Create, share, find and rate Stellaris empires for your next playthrough.
 - [apollusia.com](https://apollusia.com) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
-- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
+- [fulib.org](https://fulib.org) - An advanced homework grading platform and Web IDE based on VSCode.
+- [dyvil.org](https://dyvil.org) - A web editor for the Dyvil programming language based on the Monaco Editor and an LSP server.
+
+<!--
+- [stellarismeta24.com](https://stellarismeta24.com) [Coming Soon] - Create, share, find and rate Stellaris empires for your next playthrough.
+-->
 
 Most of these are made with Angular (frontend), NestJS (backend), MongoDB (database), Nx (workspace/build) and my own [Mean-Stream](https://github.com/Clashsoft/Meanstream) library.
 
