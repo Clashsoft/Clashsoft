@@ -4,10 +4,10 @@ Hi there, I'm Adrian and currently a PhD Student of Computer Science.
 Feel free to take a look around my profile, during my studies and as a hobby I created many different software projects.
 Not all of them are in my personal profile, so check out some of the awesome organizations that I worked in:
 
-- [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
 - [Distributed Systems Uni Kassel](https://github.com/ds-ukassel) - Projects at the Distributed Systems group in Kassel.
 - [Software Engineering Uni Kassel](https://github.com/sekassel-research) - Projects at the Software Engineering Research group in Kassel.
 - [Fujaba](https://github.com/fujaba) - The Fulib Tool Suite for developer productivity.
+- [Dyvil](https://github.com/Dyvil) - A modern JVM programming language.
 - [Clashsoft-Mods](https://github.com/Clashsoft-Mods) - My old Minecraft modding projects.
 - [Minestrappolation](https://github.com/MinestrapTeam) - Also Minecraft modding, but a larger project and team.
 
@@ -18,9 +18,11 @@ Here are some of my showoff projects, available to all on the web:
 
 - [app.clashsoft.de](https://app.clashsoft.de) - A bunch of minor projects that I put together into one web app.
 - [coffee.uni-kassel.dev](https://coffee.uni-kassel.dev/) - Coffee Counter and amenity finance tracker for the VS/SE offices.
-- [stellarismeta24.com](https://stellarismeta24.com) [Coming Soon] - Create, share, find and rate Stellaris empires for your next playthrough.
 - [apollusia.com](https://apollusia.com) - Organise group and 1:1 meetings with this clean, free, and powerful tool.
-- [fulib.org](https://www.fulib.org) - A modern software engineering platform, featuring experimental modeling languages, a web IDE, homework grading, etc.
+- [fulib.org](https://fulib.org) - An advanced homework grading platform and Web IDE based on VSCode.
+- [dyvil.org](https://dyvil.org) - A web editor for the Dyvil programming language based on the Monaco Editor and an LSP server.
+
+
 
 Most of these are made with Angular (frontend), NestJS (backend), MongoDB (database), Nx (workspace/build) and my own [Mean-Stream](https://github.com/Clashsoft/Meanstream) library.
 
@@ -53,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (today) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [fujaba/fulibTools](https://github.com/fujaba/fulibTools) (1 day ago) - Additional features for fulib that require some large dependencies.
+- [fujaba/fulib](https://github.com/fujaba/fulib) (1 day ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib](https://github.com/fujaba/fulib) (1 day ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (6 days ago) - Conserve Web App
 
 #### 🌱 My latest projects
 
