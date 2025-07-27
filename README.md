@@ -55,7 +55,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (4 days ago) - A collection of web apps for various purposes, mostly related to games.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (5 days ago) - A collection of web apps for various purposes, mostly related to games.
 - [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 week ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 week ago) - 
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
@@ -79,9 +79,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/seckinyasar.png?size=128" alt="seckinyasar Profile Avatar" width="32">](https://github.com/seckinyasar)| [<img src="https://github.com/helallao.png?size=128" alt="helallao Profile Avatar" width="32">](https://github.com/helallao)| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)|
+| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)| [<img src="https://github.com/seckinyasar.png?size=128" alt="seckinyasar Profile Avatar" width="32">](https://github.com/seckinyasar)| [<img src="https://github.com/helallao.png?size=128" alt="helallao Profile Avatar" width="32">](https://github.com/helallao)| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)|
 |:---:|:---:|:---:|:---:|:---:|
-| [seckinyasar](https://github.com/seckinyasar)| [helallao](https://github.com/helallao)| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)| [deep-goyal](https://github.com/deep-goyal)|
+| [SonoTommy](https://github.com/SonoTommy)| [seckinyasar](https://github.com/seckinyasar)| [helallao](https://github.com/helallao)| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)|
 
 ---
 
