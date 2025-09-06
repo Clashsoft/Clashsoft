@@ -55,7 +55,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (2 weeks ago) - Coffee tracker for Distributed Systems Group
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
@@ -79,9 +79,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)| [<img src="https://github.com/seckinyasar.png?size=128" alt="seckinyasar Profile Avatar" width="32">](https://github.com/seckinyasar)| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)|
+| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)| [<img src="https://github.com/UK-RoseSchwarz.png?size=128" alt="UK-RoseSchwarz Profile Avatar" width="32">](https://github.com/UK-RoseSchwarz)|
 |:---:|:---:|:---:|:---:|:---:|
-| [SonoTommy](https://github.com/SonoTommy)| [seckinyasar](https://github.com/seckinyasar)| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)| [deep-goyal](https://github.com/deep-goyal)|
+| [SonoTommy](https://github.com/SonoTommy)| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)| [deep-goyal](https://github.com/deep-goyal)| [UK-RoseSchwarz](https://github.com/UK-RoseSchwarz)|
 
 ---
 
