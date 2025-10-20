@@ -30,7 +30,7 @@ Most of these are made with Angular (frontend), NestJS (backend), MongoDB (datab
 
 And for those of you into reading, here are some of my papers and theses (in increasing order of quality and proudness):
 
-- Fusion Seminar Paper (2015, TBP) - "Energy production with nuclear fusion".
+- [Fusion Seminar Paper](https://github.com/Clashsoft/Seminar-Kernfusion) (2015, 2025) - "Energy production with nuclear fusion".
 - [Groovy Seminar Paper](https://github.com/Clashsoft/Seminar-Groovy) (2018) - A seminar paper about the Groovy programming language.
 - [Valhalla Seminar Paper](https://github.com/Clashsoft/Seminar-Valhalla) (2020) - A seminar paper about the OpenJDK project Valhalla.
 - [Bachelor Thesis](https://github.com/Clashsoft/Bachelor-Thesis) (2020) - "Natural Language Pattern Matching for Natural Language Object Scenarios".
@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) (today) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (2 days ago) - The Dyvil programming language
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (4 days ago) - Coffee tracker for Distributed Systems Group
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - IDE plugins for grading fulib.org Assignments.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 weeks ago) - Conserve Web App
 
 #### 🌱 My latest projects
 
@@ -71,11 +71,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), today) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v4.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v4.0.2), 2 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.0), 4 months ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 5 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
-- [fujaba/fulibScenarios](https://github.com/fujaba/fulibScenarios) ([v1.7.1](https://github.com/fujaba/fulibScenarios/releases/tag/v1.7.1), 2 years ago) - fulibScenarios provides an analyzer for textual example scenarios. 
 
 #### 🚶 Check out some of my recent followers
 
