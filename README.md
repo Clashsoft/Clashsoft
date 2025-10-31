@@ -79,9 +79,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)| [<img src="https://github.com/deep-goyal.png?size=128" alt="deep-goyal Profile Avatar" width="32">](https://github.com/deep-goyal)|
+| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)| [<img src="https://github.com/InfinitysOne.png?size=128" alt="InfinitysOne Profile Avatar" width="32">](https://github.com/InfinitysOne)| [<img src="https://github.com/derLumu.png?size=128" alt="derLumu Profile Avatar" width="32">](https://github.com/derLumu)|
 |:---:|:---:|:---:|:---:|:---:|
-| [amiria703](https://github.com/amiria703)| [SonoTommy](https://github.com/SonoTommy)| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)| [deep-goyal](https://github.com/deep-goyal)|
+| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)| [amiria703](https://github.com/amiria703)| [SonoTommy](https://github.com/SonoTommy)| [InfinitysOne](https://github.com/InfinitysOne)| [derLumu](https://github.com/derLumu)|
 
 ---
 
