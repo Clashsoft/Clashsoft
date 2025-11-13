@@ -71,11 +71,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([26.4.5](https://github.com/keycloak/keycloak/releases/tag/26.4.5), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 3 weeks ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v4.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v4.0.2), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 3 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.0), 5 months ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 6 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🚶 Check out some of my recent followers
 
