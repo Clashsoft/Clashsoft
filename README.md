@@ -58,7 +58,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 weeks ago) - Conserve Web App
 - [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) (3 weeks ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (3 weeks ago) - A web app for creating and sharing Stellaris empires.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 weeks ago) - Calendar tool for coordinating meetings
 - [Dyvil/Dyvil](https://github.com/Dyvil/Dyvil) (4 weeks ago) - The Dyvil programming language
 
 #### 🌱 My latest projects
