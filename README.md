@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 day ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
-- [ds-ukassel/trace-that-route-server](https://github.com/ds-ukassel/trace-that-route-server) (1 day ago) - Simple FastAPI HTTP server for trace-that-route (exposes traceroutes to a POST endpoint)
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (today) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 day ago) - Coffee tracker for Distributed Systems Group
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (2 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [ds-ukassel/trace-that-route-server](https://github.com/ds-ukassel/trace-that-route-server) (2 days ago) - Simple FastAPI HTTP server for trace-that-route (exposes traceroutes to a POST endpoint)
 
 #### 🌱 My latest projects
 
