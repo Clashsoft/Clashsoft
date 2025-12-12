@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (1 day ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 week ago) - Coffee tracker for Distributed Systems Group
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [ds-ukassel/intellij-plugin-example](https://github.com/ds-ukassel/intellij-plugin-example) (1 day ago) - Generated IntelliJ plugin template from https://github.com/JetBrains/intellij-platform-plugin-template
+- [ds-ukassel/backup-postgres-s3](https://github.com/ds-ukassel/backup-postgres-s3) (1 day ago) - Backup PostgreSQL to MinIO/S3
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
+- [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (2 days ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
 
 #### 🌱 My latest projects
 
