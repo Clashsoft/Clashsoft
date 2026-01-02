@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 day ago) - Coffee tracker for Distributed Systems Group
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [ds-ukassel/intellij-plugin-example](https://github.com/ds-ukassel/intellij-plugin-example) (3 weeks ago) - Generated IntelliJ plugin template from https://github.com/JetBrains/intellij-platform-plugin-template
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 day ago) - IDE plugins for grading fulib.org Assignments.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
 
 #### 🌱 My latest projects
 
@@ -71,11 +71,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.1](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.1), 1 day ago) - IDE plugins for grading fulib.org Assignments.
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([nestx/v0.14.0](https://github.com/Mean-Stream/meanstream/releases/tag/nestx/v0.14.0), 1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 2 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v4.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v4.0.2), 5 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 5 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.0](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.0), 6 months ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulibFx](https://github.com/fujaba/fulibFx) ([v0.8.0](https://github.com/fujaba/fulibFx/releases/tag/v0.8.0), 8 months ago) - A framework for JavaFX applications that is designed for MVC pattern projects.
 
 #### 🚶 Check out some of my recent followers
 
