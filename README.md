@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 day ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 days ago) - Calendar tool for coordinating meetings
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (6 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (6 days ago) - IDE plugins for grading fulib.org Assignments.
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (6 days ago) - Coffee tracker for Distributed Systems Group
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (1 week ago) - IDE plugins for grading fulib.org Assignments.
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 week ago) - Coffee tracker for Distributed Systems Group
 
 #### 🌱 My latest projects
 
@@ -71,17 +71,17 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.1](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.1), 6 days ago) - IDE plugins for grading fulib.org Assignments.
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([nestx/v0.14.0](https://github.com/Mean-Stream/meanstream/releases/tag/nestx/v0.14.0), 6 days ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.1](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.1), 1 week ago) - IDE plugins for grading fulib.org Assignments.
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([nestx/v0.14.0](https://github.com/Mean-Stream/meanstream/releases/tag/nestx/v0.14.0), 1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 2 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v4.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v4.0.2), 5 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 5 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)|
+| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)|
 |:---:|:---:|:---:|:---:|:---:|
-| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)| [amiria703](https://github.com/amiria703)| [SonoTommy](https://github.com/SonoTommy)|
+| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)| [amiria703](https://github.com/amiria703)|
 
 ---
 
