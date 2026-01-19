@@ -55,8 +55,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (6 days ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 week ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (2 weeks ago) - IDE plugins for grading fulib.org Assignments.
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (2 weeks ago) - Coffee tracker for Distributed Systems Group
