@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 day ago) - Coffee tracker for Distributed Systems Group
+- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 day ago) - A web app for creating and sharing Stellaris empires.
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 day ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 day ago) - A collection of web apps for various purposes, mostly related to games.
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (2 days ago) - Coffee tracker for Distributed Systems Group
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 week ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 weeks ago) - Calendar tool for coordinating meetings
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (3 weeks ago) - IDE plugins for grading fulib.org Assignments.
 
 #### 🌱 My latest projects
 
