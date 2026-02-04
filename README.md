@@ -55,10 +55,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (4 days ago) - Coffee tracker for Distributed Systems Group
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 day ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (5 days ago) - Coffee tracker for Distributed Systems Group
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 week ago) - A collection of web apps for various purposes, mostly related to games.
 - [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 week ago) - A web app for creating and sharing Stellaris empires.
 
 #### 🌱 My latest projects
