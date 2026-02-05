@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 day ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (4 days ago) - Conserve Web App
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (5 days ago) - Coffee tracker for Distributed Systems Group
-- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 week ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (1 week ago) - A web app for creating and sharing Stellaris empires.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 days ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (5 days ago) - Conserve Web App
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (6 days ago) - Coffee tracker for Distributed Systems Group
+- [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (2 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
+- [Clashsoft/stellarismeta24.com](https://github.com/Clashsoft/stellarismeta24.com) (2 weeks ago) - A web app for creating and sharing Stellaris empires.
 
 #### 🌱 My latest projects
 
