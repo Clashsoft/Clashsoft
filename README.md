@@ -55,8 +55,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (5 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 week ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (2 weeks ago) - Coffee tracker for Distributed Systems Group
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
@@ -79,9 +79,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/Interested-Deving-1896.png?size=128" alt="Interested-Deving-1896 Profile Avatar" width="32">](https://github.com/Interested-Deving-1896)| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)|
+| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)|
 |:---:|:---:|:---:|:---:|:---:|
-| [Interested-Deving-1896](https://github.com/Interested-Deving-1896)| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)|
+| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)| [amiria703](https://github.com/amiria703)|
 
 ---
 
