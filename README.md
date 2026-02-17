@@ -55,9 +55,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 week ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (3 days ago) - Conserve Web App
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 weeks ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (2 weeks ago) - Coffee tracker for Distributed Systems Group
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (3 weeks ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 
@@ -73,7 +73,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.1](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.1), 1 month ago) - IDE plugins for grading fulib.org Assignments.
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([nestx/v0.14.0](https://github.com/Mean-Stream/meanstream/releases/tag/nestx/v0.14.0), 1 month ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
-- [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 3 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
+- [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 4 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v4.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v4.0.2), 6 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 7 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
