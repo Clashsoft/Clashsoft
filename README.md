@@ -55,7 +55,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 week ago) - Conserve Web App
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 weeks ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (3 weeks ago) - Coffee tracker for Distributed Systems Group
@@ -79,9 +79,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/seckinyasar.png?size=128" alt="seckinyasar Profile Avatar" width="32">](https://github.com/seckinyasar)| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)|
+| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)|
 |:---:|:---:|:---:|:---:|:---:|
-| [seckinyasar](https://github.com/seckinyasar)| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)|
+| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)| [amiria703](https://github.com/amiria703)|
 
 ---
 
