@@ -55,9 +55,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 day ago) - Conserve Web App
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 week ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 weeks ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 day ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 days ago) - Conserve Web App
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (3 weeks ago) - Coffee tracker for Distributed Systems Group
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 month ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 
