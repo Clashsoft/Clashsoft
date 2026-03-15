@@ -55,9 +55,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 day ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (1 week ago) - Conserve Web App
 - [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (2 weeks ago) - A collection of web apps for various purposes, mostly related to games.
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 weeks ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (1 month ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
@@ -71,17 +71,17 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v5.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v5.0.0), 2 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v5.0.1](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v5.0.1), 1 day ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.1](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.1), 2 months ago) - IDE plugins for grading fulib.org Assignments.
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([nestx/v0.14.0](https://github.com/Mean-Stream/meanstream/releases/tag/nestx/v0.14.0), 2 months ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 4 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 7 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.0](https://github.com/fujaba/fulib.org/releases/tag/v2.0.0), 8 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/seckinyasar.png?size=128" alt="seckinyasar Profile Avatar" width="32">](https://github.com/seckinyasar)| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)|
+| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/sydsalhhsyny7252-del.png?size=128" alt="sydsalhhsyny7252-del Profile Avatar" width="32">](https://github.com/sydsalhhsyny7252-del)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)|
 |:---:|:---:|:---:|:---:|:---:|
-| [seckinyasar](https://github.com/seckinyasar)| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)|
+| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [sydsalhhsyny7252-del](https://github.com/sydsalhhsyny7252-del)| [amiria703](https://github.com/amiria703)|
 
 ---
 
