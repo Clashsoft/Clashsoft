@@ -55,11 +55,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (4 days ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (4 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [GeminiEnergySolutions/assap-backend](https://github.com/GeminiEnergySolutions/assap-backend) (5 days ago) - 
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) (5 days ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (5 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [GeminiEnergySolutions/assap-frontend](https://github.com/GeminiEnergySolutions/assap-frontend) (2 weeks ago) - Conserve Web App
-- [Clashsoft/app.clashsoft.de](https://github.com/Clashsoft/app.clashsoft.de) (1 month ago) - A collection of web apps for various purposes, mostly related to games.
 
 #### 🌱 My latest projects
 
@@ -71,17 +71,17 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.1](https://github.com/fujaba/fulib.org/releases/tag/v2.0.1), 4 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.2](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.2), 4 days ago) - IDE plugins for grading fulib.org Assignments.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.1](https://github.com/fujaba/fulib.org/releases/tag/v2.0.1), 5 days ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
+- [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([vscode/v1.2.2](https://github.com/fujaba/fulibFeedback/releases/tag/vscode/v1.2.2), 5 days ago) - IDE plugins for grading fulib.org Assignments.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v5.1.1](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v5.1.1), 1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([nestx/v0.14.0](https://github.com/Mean-Stream/meanstream/releases/tag/nestx/v0.14.0), 3 months ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 5 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 
 #### 🚶 Check out some of my recent followers
 
-| [<img src="https://github.com/helallao.png?size=128" alt="helallao Profile Avatar" width="32">](https://github.com/helallao)| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)|
+| [<img src="https://github.com/sepe81.png?size=128" alt="sepe81 Profile Avatar" width="32">](https://github.com/sepe81)| [<img src="https://github.com/standardgalactic.png?size=128" alt="standardgalactic Profile Avatar" width="32">](https://github.com/standardgalactic)| [<img src="https://github.com/woodkaylee37-netizen.png?size=128" alt="woodkaylee37-netizen Profile Avatar" width="32">](https://github.com/woodkaylee37-netizen)| [<img src="https://github.com/amiria703.png?size=128" alt="amiria703 Profile Avatar" width="32">](https://github.com/amiria703)| [<img src="https://github.com/SonoTommy.png?size=128" alt="SonoTommy Profile Avatar" width="32">](https://github.com/SonoTommy)|
 |:---:|:---:|:---:|:---:|:---:|
-| [helallao](https://github.com/helallao)| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [amiria703](https://github.com/amiria703)|
+| [sepe81](https://github.com/sepe81)| [standardgalactic](https://github.com/standardgalactic)| [woodkaylee37-netizen](https://github.com/woodkaylee37-netizen)| [amiria703](https://github.com/amiria703)| [SonoTommy](https://github.com/SonoTommy)|
 
 ---
 
