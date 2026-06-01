@@ -55,10 +55,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (6 days ago) - Calendar tool for coordinating meetings
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (6 days ago) - Coffee tracker for Distributed Systems Group
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 week ago) - Calendar tool for coordinating meetings
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 week ago) - Coffee tracker for Distributed Systems Group
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 week ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 weeks ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) (1 month ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 
 #### 🌱 My latest projects
