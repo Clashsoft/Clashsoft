@@ -55,7 +55,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Clashsoft/adriangpt](https://github.com/Clashsoft/adriangpt) (6 days ago) - Creates mean PR comments. Just configure in your repo and assign him. Works with any Ollama instance or BYOK
+- [Clashsoft/adriangpt](https://github.com/Clashsoft/adriangpt) (1 week ago) - Creates mean PR comments. Just configure in your repo and assign him. Works with any Ollama instance or BYOK
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (3 weeks ago) - Coffee tracker for Distributed Systems Group
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
