@@ -59,7 +59,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (3 weeks ago) - Coffee tracker for Distributed Systems Group
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 weeks ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (4 weeks ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 month ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 
 #### 🌱 My latest projects
 
@@ -75,7 +75,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([ngbx/v0.15.0](https://github.com/Mean-Stream/meanstream/releases/tag/ngbx/v0.15.0), 1 month ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.2](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.2), 2 months ago) - IDE plugins for grading fulib.org Assignments.
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.1](https://github.com/fujaba/fulib.org/releases/tag/v2.0.1), 2 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
-- [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 7 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
+- [Clashsoft/Seminar-Kernfusion](https://github.com/Clashsoft/Seminar-Kernfusion) ([v1.0.0](https://github.com/Clashsoft/Seminar-Kernfusion/releases/tag/v1.0.0), 8 months ago) - Seminarfacharbeit zum Thema &#34;Energiegewinnung durch Kernfusion&#34;. Diese Arbeit wurde erstmals 2015 gefertigt und 2025 in LaTeX stylistisch aufgearbeitet. Mögliche Inhaltliche Fehler und wissenschaftliche Ungenauigkeiten wurden originalgetreu beibehalten.
 
 #### 🚶 Check out some of my recent followers
 
