@@ -59,7 +59,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 - [Clashsoft/adriangpt](https://github.com/Clashsoft/adriangpt) (1 month ago) - Creates mean PR comments. Just configure in your repo and assign him. Works with any Ollama instance or BYOK
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 month ago) - Coffee tracker for Distributed Systems Group
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (1 month ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
+- [Dyvil/dyvil-lsp](https://github.com/Dyvil/dyvil-lsp) (2 months ago) - Dyvil reimplemented with LSP support, VSCode Extension, Web Playground etc. and targeting JavaScript.
 
 #### 🌱 My latest projects
 
