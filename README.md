@@ -55,8 +55,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (1 day ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (3 weeks ago) - Calendar tool for coordinating meetings
+- [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (2 days ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 weeks ago) - Calendar tool for coordinating meetings
 - [Clashsoft/adriangpt](https://github.com/Clashsoft/adriangpt) (1 month ago) - Creates mean PR comments. Just configure in your repo and assign him. Works with any Ollama instance or BYOK
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 month ago) - Coffee tracker for Distributed Systems Group
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
@@ -71,7 +71,7 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) ([v1.0.0](https://github.com/Morphclue/apollusia/releases/tag/v1.0.0), 3 weeks ago) - Calendar tool for coordinating meetings
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) ([v1.0.0](https://github.com/Morphclue/apollusia/releases/tag/v1.0.0), 4 weeks ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v5.1.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v5.1.2), 1 month ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([ngbx/v0.15.0](https://github.com/Mean-Stream/meanstream/releases/tag/ngbx/v0.15.0), 2 months ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.2](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.2), 3 months ago) - IDE plugins for grading fulib.org Assignments.
