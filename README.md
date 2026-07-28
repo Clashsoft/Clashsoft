@@ -55,9 +55,9 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [LeStegii/kettlepack-i](https://github.com/LeStegii/kettlepack-i) (1 day ago) - 
-- [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (1 week ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
+- [LeStegii/kettlepack-i](https://github.com/LeStegii/kettlepack-i) (2 days ago) - 
 - [ds-ukassel/backup-clickhouse-native-s3](https://github.com/ds-ukassel/backup-clickhouse-native-s3) (1 week ago) - Script for backing up clickhouse to s3 compatible storage like minio using native formats
+- [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (1 week ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 month ago) - Calendar tool for coordinating meetings
 - [Clashsoft/adriangpt](https://github.com/Clashsoft/adriangpt) (1 month ago) - Creates mean PR comments. Just configure in your repo and assign him. Works with any Ollama instance or BYOK
 
