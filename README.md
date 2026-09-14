@@ -55,10 +55,10 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (1 day ago) - Calendar tool for coordinating meetings
+- [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) (1 day ago) - A github action to download minio client (mc) in your workflows.
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (2 days ago) - Calendar tool for coordinating meetings
 - [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (4 weeks ago) - Coffee tracker for Distributed Systems Group
 - [LeStegii/kettlepack-i](https://github.com/LeStegii/kettlepack-i) (1 month ago) - 
-- [ds-ukassel/backup-clickhouse-native-s3](https://github.com/ds-ukassel/backup-clickhouse-native-s3) (1 month ago) - Script for backing up clickhouse to s3 compatible storage like minio using native formats
 - [ds-ukassel/backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) (1 month ago) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
 
 #### 🌱 My latest projects
@@ -71,11 +71,11 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 🗜 Latest releases I've contributed to
 
+- [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) ([v1.2.0](https://github.com/hostwithquantum/setup-mc/releases/tag/v1.2.0), 1 day ago) - A github action to download minio client (mc) in your workflows.
 - [Morphclue/apollusia](https://github.com/Morphclue/apollusia) ([v1.0.0](https://github.com/Morphclue/apollusia/releases/tag/v1.0.0), 2 months ago) - Calendar tool for coordinating meetings
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([v5.1.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/v5.1.2), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [Mean-Stream/meanstream](https://github.com/Mean-Stream/meanstream) ([ngbx/v0.15.0](https://github.com/Mean-Stream/meanstream/releases/tag/ngbx/v0.15.0), 4 months ago) - Extensions for the MEAN stack (MongoDB, (Express), Angular, Node/NestJS), especially code sharing and integration.
 - [fujaba/fulibFeedback](https://github.com/fujaba/fulibFeedback) ([intellij/v1.2.2](https://github.com/fujaba/fulibFeedback/releases/tag/intellij/v1.2.2), 5 months ago) - IDE plugins for grading fulib.org Assignments.
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v2.0.1](https://github.com/fujaba/fulib.org/releases/tag/v2.0.1), 5 months ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 
 #### 🚶 Check out some of my recent followers
 
