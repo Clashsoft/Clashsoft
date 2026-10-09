@@ -55,8 +55,8 @@ And for those of you into reading, here are some of my papers and theses (in inc
 
 #### 👷‍ Check out what I'm currently working on
 
-- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (4 days ago) - Calendar tool for coordinating meetings
-- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (6 days ago) - Coffee tracker for Distributed Systems Group
+- [ds-ukassel/coffee-counter](https://github.com/ds-ukassel/coffee-counter) (1 day ago) - Coffee tracker for Distributed Systems Group
+- [Morphclue/apollusia](https://github.com/Morphclue/apollusia) (5 days ago) - Calendar tool for coordinating meetings
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (2 weeks ago) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app.
 - [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) (3 weeks ago) - A github action to download minio client (mc) in your workflows.
 - [LeStegii/kettlepack-i](https://github.com/LeStegii/kettlepack-i) (2 months ago) - 
